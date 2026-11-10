@@ -1,0 +1,188 @@
+16729375
+  -OEChem-09172609382D
+
+ 36 37  0     0  0  0  0  0  0999 V2000
+    7.2764   -1.5547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2764    0.0547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8600   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -2.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200   -1.1674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215   -1.8577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3208   -1.1647    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3208   -0.3353    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3426    1.1423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9441    1.8326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    1.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    3.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    2.7131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0420    2.7131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4220    3.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -2.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 18 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+16729375
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+307
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAEgBAAAAGgAAAAAADASgmAMyDoAABACAAiBCAAACCAAgIAAIiAAGiIgdJyKEMRqiOCKlwBUOqAfA4LwOIQABCAAIQABCAAIQABCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-allyl-6-(3-methylbut-2-enoxy)-1,3-benzodioxole
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-(3-methylbut-2-enoxy)-6-prop-2-enyl-1,3-benzodioxole
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+5-(3-methylbut-2-enoxy)-6-prop-2-enyl-1,3-benzodioxole
+
+> <PUBCHEM_IUPAC_NAME>
+5-(3-methylbut-2-enoxy)-6-prop-2-enyl-1,3-benzodioxole
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-(3-methylbut-2-enoxy)-6-prop-2-enyl-1,3-benzodioxole
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-allyl-6-(3-methylbut-2-enoxy)-1,3-benzodioxole
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H18O3/c1-4-5-12-8-14-15(18-10-17-14)9-13(12)16-7-6-11(2)3/h4,6,8-9H,1,5,7,10H2,2-3H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZVLUSCHAEWICMZ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.3
+
+> <PUBCHEM_EXACT_MASS>
+246.125594432
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H18O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+246.30
+
+> <PUBCHEM_SMILES>
+CC(=CCOC1=CC2=C(C=C1CC=C)OCO2)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(=CCOC1=CC2=C(C=C1CC=C)OCO2)C
+
+> <PUBCHEM_CACTVS_TPSA>
+27.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+246.125594432
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+4  5  8
+4  8  8
+5  9  8
+6  7  8
+6  8  8
+7  9  8
+
+$$$$

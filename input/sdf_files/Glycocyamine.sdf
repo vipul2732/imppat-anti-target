@@ -1,0 +1,136 @@
+763
+  -OEChem-09172608562D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    6.8671   -0.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.4050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.4050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.4050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.0950    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7365   -0.5699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5335   -0.5699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    1.0250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9399   -1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040    0.2150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+763
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+116
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBDMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAAAADBgAQBCAJAAgAoAACQLAAAAAEAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-guanidinoacetic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(diaminomethylideneamino)acetic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(diaminomethylideneamino)acetic acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-(diaminomethylideneamino)acetic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[bis(azanyl)methylideneamino]ethanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-guanidinoacetic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C3H7N3O2/c4-3(5)6-1-2(7)8/h1H2,(H,7,8)(H4,4,5,6)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+BPMFZUMJYQTVII-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-1.6
+
+> <PUBCHEM_EXACT_MASS>
+117.053826475
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C3H7N3O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+117.11
+
+> <PUBCHEM_SMILES>
+C(C(=O)O)N=C(N)N
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C(C(=O)O)N=C(N)N
+
+> <PUBCHEM_CACTVS_TPSA>
+102
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+117.053826475
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

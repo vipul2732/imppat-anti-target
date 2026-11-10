@@ -1,0 +1,193 @@
+44260115
+  -OEChem-09172611032D
+
+ 33 35  0     0  0  0  0  0  0999 V2000
+    5.5443   -1.0392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8600    0.7656    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1279   -2.2344    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7656    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.2344    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1871    2.2651    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8335    1.7270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5920   -2.2344    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.2656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1279   -0.2344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5443    0.5703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.7344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9939   -0.7344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    0.7656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.2344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8600   -0.2344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9939   -1.7344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.2656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.7344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8550    1.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7260   -0.7344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8600   -2.2344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7260   -1.7344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.3856    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.8544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2629   -0.4244    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8600   -2.8544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3969    1.0756    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1279   -2.8544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.3856    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.8544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3797    2.8544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5920   -2.8544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 31  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 32  1  0  0  0  0
+  7 20  2  0  0  0  0
+  8 23  1  0  0  0  0
+  8 33  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 27  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+44260115
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+445
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+6
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwPAAAAAAAAAAAAAAAAAAAASAAAAAwYAAAAAAAAEgB9AAAGgAACAAADASAmAAwDsAABkCIAqDSCAACCAAkIAAAiAEGiMgNJzaONRqCeWGl4BUJuYfL7PzOoQABCAAIQABCAAIQABCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5,6-dihydroxy-2-(2,4,6-trihydroxyphenyl)benzofuran-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5,6-dihydroxy-2-(2,4,6-trihydroxyphenyl)-3-benzofurancarboxylic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+5,6-dihydroxy-2-(2,4,6-trihydroxyphenyl)-1-benzofuran-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+5,6-dihydroxy-2-(2,4,6-trihydroxyphenyl)-1-benzofuran-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5,6-bis(oxidanyl)-2-[2,4,6-tris(oxidanyl)phenyl]-1-benzofuran-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5,6-dihydroxy-2-(2,4,6-trihydroxyphenyl)benzofuran-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H10O8/c16-5-1-9(19)13(10(20)2-5)14-12(15(21)22)6-3-7(17)8(18)4-11(6)23-14/h1-4,16-20H,(H,21,22)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OYMZVRJQIIYPTP-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.7
+
+> <PUBCHEM_EXACT_MASS>
+318.03756727
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H10O8
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+318.23
+
+> <PUBCHEM_SMILES>
+C1=C(C=C(C(=C1O)C2=C(C3=CC(=C(C=C3O2)O)O)C(=O)O)O)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1=C(C=C(C(=C1O)C2=C(C3=CC(=C(C=C3O2)O)O)C(=O)O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+152
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+318.03756727
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  8
+1  12  8
+10  11  8
+12  15  8
+13  16  8
+13  17  8
+14  18  8
+15  19  8
+16  21  8
+17  22  8
+18  19  8
+21  23  8
+22  23  8
+9  11  8
+9  12  8
+9  14  8
+
+$$$$

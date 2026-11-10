@@ -1,0 +1,182 @@
+179956
+  -OEChem-09172608502D
+
+ 30 33  0     0  0  0  0  0  0999 V2000
+    2.0000   -0.8530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5450    2.5740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7602   -1.0412    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3799   -3.1121    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5692   -1.6290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3782   -1.0412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4763   -2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0692   -0.0901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0692   -0.0901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2345   -1.5722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5280   -3.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6853   -2.4852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8022   -1.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2353   -2.5797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6038    0.8038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5345    0.8038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0484    1.7099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0900    1.7099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8440   -1.6859    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4586   -0.9941    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0831   -3.5293    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8773   -3.6097    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0902   -2.3112    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4121   -3.0417    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4604   -3.1574    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8446   -2.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2238    0.7967    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9146    0.7967    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4021    2.2456    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8530    3.1121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  2  0  0  0  0
+  2 17  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+179956
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+420
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMAAAAAAAAAAAAAAAAAAAAWAAAAA8QIAAAAAAAFiB8AAAHgAACAAADAzBngQwxvMMEgCoAyVyVACCgCAhIiAImCE2bJgIJvLCkZOEcAhmxBnI2AeY2fOeoAAAAgACAABAAAAEAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+13-hydroxy-1,6-diazatetracyclo[7.6.1.05,16.010,15]hexadeca-5,9(16),10(15),11,13-pentaen-2-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+13-hydroxy-1,6-diazatetracyclo[7.6.1.05,16.010,15]hexadeca-5,9(16),10(15),11,13-pentaen-2-one
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+13-hydroxy-1,6-diazatetracyclo[7.6.1.0<SUP>5,16</SUP>.0<SUP>10,15</SUP>]hexadeca-5,9(16),10(15),11,13-pentaen-2-one
+
+> <PUBCHEM_IUPAC_NAME>
+13-hydroxy-1,6-diazatetracyclo[7.6.1.05,16.010,15]hexadeca-5,9(16),10(15),11,13-pentaen-2-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+13-oxidanyl-1,6-diazatetracyclo[7.6.1.05,16.010,15]hexadeca-5,9(16),10(15),11,13-pentaen-2-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+13-hydroxy-1,6-diazatetracyclo[7.6.1.05,16.010,15]hexadeca-5,9(16),10(15),11,13-pentaen-2-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H12N2O2/c17-8-1-2-9-10-5-6-15-11-3-4-13(18)16(14(10)11)12(9)7-8/h1-2,7,17H,3-6H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+BNFIDCOONSTWGB-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.2
+
+> <PUBCHEM_EXACT_MASS>
+240.089877630
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H12N2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+240.26
+
+> <PUBCHEM_SMILES>
+C1CC(=O)N2C3=C(C=CC(=C3)O)C4=C2C1=NCC4
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1CC(=O)N2C3=C(C=CC(=C3)O)C4=C2C1=NCC4
+
+> <PUBCHEM_CACTVS_TPSA>
+54.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+240.089877630
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+15  18  8
+16  17  8
+17  18  8
+3  5  8
+3  9  8
+5  6  8
+6  8  8
+8  15  8
+8  9  8
+9  16  8
+
+$$$$

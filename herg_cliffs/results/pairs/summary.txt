@@ -1,0 +1,9 @@
+Compounds: 8879
+Neighbor pairs at Tanimoto >= 0.80: 5569
+One-log pairs: 629
+Two-log pairs: 90
+Clusters: 5873
+Largest cluster: 79
+Singleton clusters: 4781
+Cluster fold sizes: 0=1776, 1=1776, 2=1776, 3=1776, 4=1775
+Scaffold fold sizes: 0=1776, 1=1776, 2=1776, 3=1776, 4=1775

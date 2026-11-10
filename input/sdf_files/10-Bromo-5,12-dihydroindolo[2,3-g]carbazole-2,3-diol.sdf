@@ -1,0 +1,205 @@
+71447337
+  -OEChem-09172610092D
+
+ 34 38  0     0  0  0  0  0  0999 V2000
+    2.0000    2.7595    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    6.2645   -2.9307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2956   -3.1424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0393    0.8212    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4546    0.4588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8515    0.6259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9855    1.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9855    2.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7176    1.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0607   -0.3459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0393    2.4306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0495   -0.4490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4557    1.6259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8515    2.6259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7176    2.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4400   -1.1747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4860   -1.3879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6319    3.3826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4243    1.7174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8547   -2.1235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8845   -2.2308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6029    3.4979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9950    2.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8467    0.2318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0612    0.5867    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8515    3.2459    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2545    2.4359    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8241   -1.1033    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1033   -1.4451    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0017    3.8803    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0661    1.2113    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3524    4.0650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5149   -3.4979    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9125   -3.2043    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 23  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 33  1  0  0  0  0
+  3 21  1  0  0  0  0
+  3 34  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 22  2  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+71447337
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+478
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7MAAAEAAAAAAAAAAAAAAAAWLAAAAwYMAAAAAAAFgB/gAAHgBQCAABrAyBngAwxvLJkgCgAyRiRACCgCAhIiQImSA27LgJJuLC0dOEdAlm0BnJ2hew0PMOqkADAgUCQABUgAYECgSAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+10-bromo-5,12-dihydroindolo[2,3-g]carbazole-2,3-diol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+10-bromo-5,12-dihydroindolo[2,3-g]carbazole-2,3-diol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+10-bromo-5,12-dihydroindolo[2,3-g]carbazole-2,3-diol
+
+> <PUBCHEM_IUPAC_NAME>
+10-bromo-5,12-dihydroindolo[2,3-g]carbazole-2,3-diol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+10-bromanyl-5,12-dihydroindolo[2,3-g]carbazole-2,3-diol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+10-bromo-5,12-dihydroindolo[2,3-g]carbazole-2,3-diol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C18H11BrN2O2/c19-8-1-2-9-10-3-4-12-17(18(10)21-13(9)5-8)11-6-15(22)16(23)7-14(11)20-12/h1-7,20-23H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+TYGUTURXHKSOBP-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+366.00039
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C18H11BrN2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+367.2
+
+> <PUBCHEM_SMILES>
+C1=CC2=C(C=C1Br)NC3=C2C=CC4=C3C5=CC(=C(C=C5N4)O)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1=CC2=C(C=C1Br)NC3=C2C=CC4=C3C5=CC(=C(C=C5N4)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+72
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+366.00039
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+10  16  8
+11  13  8
+11  18  8
+12  17  8
+13  19  8
+14  15  8
+16  20  8
+17  21  8
+18  22  8
+19  23  8
+20  21  8
+22  23  8
+4  13  8
+4  7  8
+5  12  8
+5  9  8
+6  10  8
+6  7  8
+6  9  8
+7  8  8
+8  11  8
+8  14  8
+9  15  8
+
+$$$$

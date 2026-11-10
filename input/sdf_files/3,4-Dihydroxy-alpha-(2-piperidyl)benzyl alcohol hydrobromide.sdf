@@ -1,0 +1,184 @@
+36283
+  -OEChem-09172609112D
+
+ 33 34  0     1  0  0  0  0  0999 V2000
+    3.4030    1.6550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.8450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.8450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    2.6550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.6550    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0010    1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    1.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.1550    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.8671    2.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    3.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8711    2.0800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6025    0.6801    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3996    0.6801    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0791    1.0724    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4776    1.7627    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.7750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4776    2.5473    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0791    3.2376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3996    3.6300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6025    3.6300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.3450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720   -0.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720   -1.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059   -3.1550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  6  0  0  0
+  1 28  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 32  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 33  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 17  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+36283
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+224
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMAAAAAAAAAAAAAAAAAAAAAAAAAA8QAAAAAAAAAABAAAAHgAQCAAADDzhmAYwBoLAAgCAAiBCAAACAAAgIAAIiIAOiIgLNiKCkROEcAEk0BGZmAfQ8PcOIAABAAAAQABAAAIAAACAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-[(S)-hydroxy-[(2R)-2-piperidyl]methyl]benzene-1,2-diol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-[(S)-hydroxy-[(2R)-2-piperidinyl]methyl]benzene-1,2-diol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-[(<I>S</I>)-hydroxy-[(2<I>R</I>)-piperidin-2-yl]methyl]benzene-1,2-diol
+
+> <PUBCHEM_IUPAC_NAME>
+4-[(S)-hydroxy-[(2R)-piperidin-2-yl]methyl]benzene-1,2-diol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-[(S)-oxidanyl-[(2R)-piperidin-2-yl]methyl]benzene-1,2-diol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-[(S)-hydroxy-[(2R)-2-piperidyl]methyl]pyrocatechol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H17NO3/c14-10-5-4-8(7-11(10)15)12(16)9-3-1-2-6-13-9/h4-5,7,9,12-16H,1-3,6H2/t9-,12+/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IYMMESGOJVNCKV-SKDRFNHKSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.8
+
+> <PUBCHEM_EXACT_MASS>
+223.12084340
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H17NO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+223.27
+
+> <PUBCHEM_SMILES>
+C1CCN[C@H](C1)[C@H](C2=CC(=C(C=C2)O)O)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1CCNC(C1)C(C2=CC(=C(C=C2)O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+72.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+223.12084340
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+8  1  6
+11  12  8
+11  13  8
+12  14  8
+13  15  8
+14  16  8
+15  16  8
+5  17  5
+
+$$$$

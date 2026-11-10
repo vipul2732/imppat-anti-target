@@ -1,0 +1,194 @@
+170935
+  -OEChem-09172608272D
+
+ 33 36  0     1  0  0  0  0  0999 V2000
+    5.1309   -1.7150    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3608   -1.7045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7031   -1.4851    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641    1.2117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3608    0.3438    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.3608    0.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.7150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.7084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2248   -0.1596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1309    0.3543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2248   -1.2012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0248   -0.1804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0248   -1.1804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8909    0.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8909   -1.6804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7569   -0.1804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7569   -1.1804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7031    0.1243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2867   -0.6804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8008    0.7805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7790    0.5619    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2507   -0.2625    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3121    2.2508    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    2.0271    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6879    1.1793    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0400    1.1702    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2702    2.0163    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4241    2.2465    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1381    0.9742    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8909    0.9396    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8909   -2.3004    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8957    0.7137    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9067   -0.6804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 17  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+170935
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+451
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4MAAAAAAAAAAAAAAAGAAAASAAAAAwQAAAAAAAAEiB8AAAGgAAAAAADwSgmAIyDsAABECIAqjSiAACCAAkIAAIiAEGCMgMJzaENRqCO2Cl4BUIqYeI7PzPoAACCAAIAABAAAQQABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+6-(2,2-dimethylcyclopropyl)furo[3,2-g]chromen-7-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+6-(2,2-dimethylcyclopropyl)-7-furo[3,2-g][1]benzopyranone
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+6-(2,2-dimethylcyclopropyl)furo[3,2-g]chromen-7-one
+
+> <PUBCHEM_IUPAC_NAME>
+6-(2,2-dimethylcyclopropyl)furo[3,2-g]chromen-7-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+6-(2,2-dimethylcyclopropyl)furo[3,2-g]chromen-7-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+6-(2,2-dimethylcyclopropyl)furo[3,2-g]chromen-7-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H14O3/c1-16(2)8-12(16)11-6-10-5-9-3-4-18-13(9)7-14(10)19-15(11)17/h3-7,12H,8H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IXLICOBIKMGSAV-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.9
+
+> <PUBCHEM_EXACT_MASS>
+254.094294304
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H14O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+254.28
+
+> <PUBCHEM_SMILES>
+CC1(CC1C2=CC3=C(C=C4C(=C3)C=CO4)OC2=O)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1(CC1C2=CC3=C(C=C4C(=C3)C=CO4)OC2=O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+39.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+254.094294304
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  11  8
+1  13  8
+10  12  8
+12  13  8
+12  14  8
+13  15  8
+14  16  8
+15  17  8
+16  17  8
+16  18  8
+18  19  8
+3  17  8
+3  19  8
+5  9  3
+9  10  8
+9  11  8
+
+$$$$

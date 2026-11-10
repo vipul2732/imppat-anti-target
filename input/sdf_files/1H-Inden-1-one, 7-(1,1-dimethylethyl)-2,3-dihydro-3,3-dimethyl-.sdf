@@ -1,0 +1,188 @@
+608370
+  -OEChem-09172610512D
+
+ 36 37  0     0  0  0  0  0  0999 V2000
+    5.1229    1.1334    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8122   -1.4266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -1.1218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3958   -0.6218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -0.1218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    1.3782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.3782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8122    0.1829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6223   -2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5049   -2.3782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -1.6218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -0.1218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.3782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.3782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000    1.3782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -1.1218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8567   -1.0366    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8567   -0.2071    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2587   -2.5152    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1245   -2.3765    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9858   -1.5107    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9149   -2.1876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3143   -2.9682    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0949   -2.5687    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.2418    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5970    0.1882    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6200    2.3782    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.9982    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3800    2.3782    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.9982    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3800    1.3782    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7582    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000    0.7582    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6200    1.3782    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000    1.9982    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5970   -1.4318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 12  2  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 16 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+608370
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+295
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIAAAAAAAAAAAAAAAAAAAAYAAAAAwAAAAAAAAAGABAAAAGgAAAAAADgSAmAAyAIAAAACIAqBSAAACAAAkAAAIiAEAAMgIIDKAFRCAIQAggAAIiQcIiMCPgAACAAAQAAAAAAQAACAAAQAACAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+7-tert-butyl-3,3-dimethyl-indan-1-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+7-tert-butyl-3,3-dimethyl-2H-inden-1-one
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+7-<I>tert</I>-butyl-3,3-dimethyl-2<I>H</I>-inden-1-one
+
+> <PUBCHEM_IUPAC_NAME>
+7-tert-butyl-3,3-dimethyl-2H-inden-1-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+7-tert-butyl-3,3-dimethyl-2H-inden-1-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+7-tert-butyl-3,3-dimethyl-indan-1-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H20O/c1-14(2,3)10-7-6-8-11-13(10)12(16)9-15(11,4)5/h6-8H,9H2,1-5H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+GCHHIKFGXIVDIF-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.2
+
+> <PUBCHEM_EXACT_MASS>
+216.151415257
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H20O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+216.32
+
+> <PUBCHEM_SMILES>
+CC1(CC(=O)C2=C1C=CC=C2C(C)(C)C)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1(CC(=O)C2=C1C=CC=C2C(C)(C)C)C
+
+> <PUBCHEM_CACTVS_TPSA>
+17.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+216.151415257
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  16  8
+12  16  8
+3  11  8
+3  5  8
+5  7  8
+7  12  8
+
+$$$$

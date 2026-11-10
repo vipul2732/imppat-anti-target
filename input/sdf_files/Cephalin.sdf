@@ -1,0 +1,366 @@
+21668201
+  -OEChem-09172606292D
+
+ 37 36  0     1  0  0  0  0  0999 V2000
+    6.0010   -1.3170    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    6.8671   -0.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651   -1.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    0.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5010   -0.4510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010   -2.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312    0.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    2.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.3170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -0.8170    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.7331   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    1.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312    2.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -1.4370    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3346   -1.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1316   -1.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3871    0.7656    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9885    0.0754    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675   -0.8420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8705   -0.8420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0044   -2.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8015   -2.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8872   -1.8539    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7341   -1.6270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5072   -0.7801    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8110    0.0860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.6270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.6970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6412    1.6461    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8681    2.4930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0212    2.7200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 32  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 17  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 10 34  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+ 19 37  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+21668201
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+347
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+9
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+11
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByPAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCCAACBThgAYCCABABRAIQACQCIAAAAAAAAAAAIAAAAADAAAAAAACAAABEAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[2-acetoxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxy-propyl] acetate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+acetic acid [2-acetyloxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxypropyl] ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[2-acetyloxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxypropyl] acetate
+
+> <PUBCHEM_IUPAC_NAME>
+[2-acetyloxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxypropyl] acetate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[2-acetyloxy-3-[2-azanylethoxy(oxidanyl)phosphoryl]oxy-propyl] ethanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acetic acid [2-acetoxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxy-propyl] ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H18NO8P/c1-7(11)15-5-9(18-8(2)12)6-17-19(13,14)16-4-3-10/h9H,3-6,10H2,1-2H3,(H,13,14)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CFWRDBDJAOHXSH-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-4.4
+
+> <PUBCHEM_EXACT_MASS>
+299.07700353
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H18NO8P
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+299.21
+
+> <PUBCHEM_SMILES>
+CC(=O)OCC(COP(=O)(O)OCCN)OC(=O)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(=O)OCC(COP(=O)(O)OCCN)OC(=O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+134
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+299.07700353
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  3
+
+$$$$
+5327011
+  -OEChem-09172606292D
+
+ 37 36  0     1  0  0  0  0  0999 V2000
+    6.0010   -1.3170    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    6.8671   -0.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651   -1.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    0.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5010   -0.4510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010   -2.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312    0.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    2.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.3170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -0.8170    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.7331   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    1.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312    2.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -1.4370    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3346   -1.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1316   -1.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3871    0.7656    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9885    0.0754    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675   -0.8420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8705   -0.8420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0044   -2.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8015   -2.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8872   -1.8539    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7341   -1.6270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5072   -0.7801    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8110    0.0860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.6270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.6970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6412    1.6461    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8681    2.4930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0212    2.7200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2 12  1  0  0  0  0
+ 11  3  1  1  0  0  0
+  3 16  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 32  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 17  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 10 34  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+ 19 37  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5327011
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+347
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+9
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+11
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByPAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCCAACBThgAYCCABABRAIQACQCIAAAAAAAAAAAIAAAAADAAAAAAACAAABEAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[(2R)-2-acetoxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxy-propyl] acetate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+acetic acid [(2R)-2-acetyloxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxypropyl] ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[(2<I>R</I>)-2-acetyloxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxypropyl] acetate
+
+> <PUBCHEM_IUPAC_NAME>
+[(2R)-2-acetyloxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxypropyl] acetate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[(2R)-2-acetyloxy-3-[2-azanylethoxy(oxidanyl)phosphoryl]oxy-propyl] ethanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acetic acid [(2R)-2-acetoxy-3-[2-aminoethoxy(hydroxy)phosphoryl]oxy-propyl] ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H18NO8P/c1-7(11)15-5-9(18-8(2)12)6-17-19(13,14)16-4-3-10/h9H,3-6,10H2,1-2H3,(H,13,14)/t9-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CFWRDBDJAOHXSH-SECBINFHSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-4.4
+
+> <PUBCHEM_EXACT_MASS>
+299.07700353
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H18NO8P
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+299.21
+
+> <PUBCHEM_SMILES>
+CC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(=O)OCC(COP(=O)(O)OCCN)OC(=O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+134
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+299.07700353
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  3  5
+
+$$$$

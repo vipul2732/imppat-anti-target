@@ -1,0 +1,193 @@
+5319322
+  -OEChem-09172608182D
+
+ 30 34  0     0  0  0  0  0  0999 V2000
+    6.2719   -0.7339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4811    2.2379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2123   -0.7507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8914   -2.2725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7490    2.2379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0112    2.2620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8780    0.0708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6151    0.7379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4811    0.2379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2832   -0.8370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3471    0.7379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8499    0.1940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2356   -0.6395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6576   -1.5851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6882   -1.6845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3471    1.7379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6151    1.7379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2411    0.2032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2411    2.2725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1471    0.7171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1471    1.7587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6038    0.7631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9474   -2.2477    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2339   -0.4167    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4101   -1.5670    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7482   -2.3244    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2339    2.8925    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6829    0.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5493    1.9541    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6 22  1  0  0  0  0
+  6 30  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 19 27  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 20 28  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5319322
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+481
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4OAAAAAAAAAAAAAAAAAAAASJAAAA0YIAAAAAAAEiR9AAAGgAACAAADASAmAMwDsAABkCIAqDSCAACCAAkIAAIiAEGiMgdJzaONRqie2Kl4BUOuYfL7PzOoQABCAAIQABCAAIQABCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+16-hydroxy-5,7,11,19-tetraoxapentacyclo[10.8.0.02,10.04,8.013,18]icosa-1(12),2,4(8),9,13(18),14,16-heptaen-20-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+16-hydroxy-5,7,11,19-tetraoxapentacyclo[10.8.0.02,10.04,8.013,18]eicosa-1(12),2,4(8),9,13(18),14,16-heptaen-20-one
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+16-hydroxy-5,7,11,19-tetraoxapentacyclo[10.8.0.0<SUP>2,10</SUP>.0<SUP>4,8</SUP>.0<SUP>13,18</SUP>]icosa-1(12),2,4(8),9,13(18),14,16-heptaen-20-one
+
+> <PUBCHEM_IUPAC_NAME>
+16-hydroxy-5,7,11,19-tetraoxapentacyclo[10.8.0.02,10.04,8.013,18]icosa-1(12),2,4(8),9,13(18),14,16-heptaen-20-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+16-oxidanyl-5,7,11,19-tetraoxapentacyclo[10.8.0.02,10.04,8.013,18]icosa-1(12),2,4(8),9,13(18),14,16-heptaen-20-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+16-hydroxy-5,7,11,19-tetraoxapentacyclo[10.8.0.02,10.04,8.013,18]eicosa-1(12),2,4(8),9,13(18),14,16-heptaen-20-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H8O6/c17-7-1-2-8-10(3-7)22-16(18)14-9-4-12-13(20-6-19-12)5-11(9)21-15(8)14/h1-5,17H,6H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+URMVEUAWRUQHON-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.9
+
+> <PUBCHEM_EXACT_MASS>
+296.03208797
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H8O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+296.23
+
+> <PUBCHEM_SMILES>
+C1OC2=C(O1)C=C3C(=C2)C4=C(O3)C5=C(C=C(C=C5)O)OC4=O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1OC2=C(O1)C=C3C(=C2)C4=C(O3)C5=C(C=C(C=C5)O)OC4=O
+
+> <PUBCHEM_CACTVS_TPSA>
+78.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+296.03208797
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  8
+1  9  8
+10  15  8
+11  16  8
+11  18  8
+12  13  8
+13  14  8
+14  15  8
+16  20  8
+18  21  8
+2  16  8
+2  17  8
+20  22  8
+21  22  8
+7  10  8
+7  12  8
+7  8  8
+8  17  8
+8  9  8
+9  11  8
+
+$$$$

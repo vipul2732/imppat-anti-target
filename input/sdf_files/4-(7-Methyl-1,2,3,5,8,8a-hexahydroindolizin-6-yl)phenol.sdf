@@ -1,0 +1,190 @@
+161520
+  -OEChem-09172609402D
+
+ 36 38  0     1  0  0  0  0  0999 V2000
+    2.0000   -1.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.5600    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    7.1962    1.5600    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    8.1424    1.8647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1424    0.2553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7260    1.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    2.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    0.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.9400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.9400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2618    2.1765    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6798    2.1740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8913    2.4316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8913   -0.3116    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6798   -0.0540    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1869    0.6453    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1869    1.4747    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287    2.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316    2.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316   -0.4149    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287   -0.4149    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9081    2.5969    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    2.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2881    1.5231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.1800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    0.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  1 36  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 19  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 25  1  0  0  0  0
+  7 26  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 27  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 11 31  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 34  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+161520
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+315
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByIAAAAAAAAAAAAAAAAAAAAWAAAAAwQAAAAAAAAEABAAAAHgAACAAADCzBmAQyBoMAAgCAAiBCAACCAAAgIAAIiAAOCIgIJiKCkROEcAAkwBGImAeQwIAOIAAAAAAAAABAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-(7-methyl-1,2,3,5,8,8a-hexahydroindolizin-6-yl)phenol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-(7-methyl-1,2,3,5,8,8a-hexahydroindolizin-6-yl)phenol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-(7-methyl-1,2,3,5,8,8<I>a</I>-hexahydroindolizin-6-yl)phenol
+
+> <PUBCHEM_IUPAC_NAME>
+4-(7-methyl-1,2,3,5,8,8a-hexahydroindolizin-6-yl)phenol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-(7-methyl-1,2,3,5,8,8a-hexahydroindolizin-6-yl)phenol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-(7-methyl-1,2,3,5,8,8a-hexahydroindolizin-6-yl)phenol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H19NO/c1-11-9-13-3-2-8-16(13)10-15(11)12-4-6-14(17)7-5-12/h4-7,13,17H,2-3,8-10H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CVQQRWWNQONTMX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.2
+
+> <PUBCHEM_EXACT_MASS>
+229.146664230
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H19NO
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+229.32
+
+> <PUBCHEM_SMILES>
+CC1=C(CN2CCCC2C1)C3=CC=C(C=C3)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1=C(CN2CCCC2C1)C3=CC=C(C=C3)O
+
+> <PUBCHEM_CACTVS_TPSA>
+23.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+229.146664230
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+12  13  8
+12  14  8
+13  15  8
+14  16  8
+15  17  8
+16  17  8
+3  4  3
+
+$$$$

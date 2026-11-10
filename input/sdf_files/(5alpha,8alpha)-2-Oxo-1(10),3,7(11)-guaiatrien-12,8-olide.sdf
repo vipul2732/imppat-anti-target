@@ -1,0 +1,181 @@
+3013843
+  -OEChem-09172610322D
+
+ 34 36  0     1  0  0  0  0  0999 V2000
+    5.6270    2.1689    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3669    2.5271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5773   -0.8500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.4782   -0.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0773    1.3406    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.7007    0.5588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6763   -0.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0773    1.3406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538    0.5588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4413   -1.8347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6305    0.9105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9912   -1.1364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4630   -2.0114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5851    1.9036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4788    0.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1629   -2.5271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4661    0.3611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2643   -1.3505    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6162   -1.0206    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0982   -0.4161    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6754    2.0897    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2152    1.9451    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5187    1.6097    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1940   -2.5700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6168    1.3858    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8744    0.9193    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3409    0.1769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7336   -2.9744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6103   -2.9563    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5921   -2.0797    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1254   -0.1570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9841    0.0204    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8067    0.8791    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 15  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 19  1  6  0  0  0
+  5  7  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 22  1  1  0  0  0
+  7 12  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3013843
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+560
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAAQIAAAAAAAAABAAAAACAAAAAGgAAAAAADRSggAICCAAABACIAqDSCAAAAAAgAAAACAEAAEgABBIAIQACEAAEwAAIIQOIyOCOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3aS,8aS)-1,5,8-trimethyl-3a,4,8a,9-tetrahydroazuleno[6,5-b]furan-2,6-dione
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(3aS,8aS)-1,5,8-trimethyl-3a,4,8a,9-tetrahydroazuleno[6,5-b]furan-2,6-dione
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(3<I>a</I><I>S</I>,8<I>a</I><I>S</I>)-1,5,8-trimethyl-3<I>a</I>,4,8<I>a</I>,9-tetrahydroazuleno[6,5-b]furan-2,6-dione
+
+> <PUBCHEM_IUPAC_NAME>
+(3aS,8aS)-1,5,8-trimethyl-3a,4,8a,9-tetrahydroazuleno[6,5-b]furan-2,6-dione
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3aS,8aS)-1,5,8-trimethyl-3a,4,8a,9-tetrahydroazuleno[6,5-b]furan-2,6-dione
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3aS,8aS)-1,5,8-trimethyl-3a,4,8a,9-tetrahydroazuleno[6,5-b]furan-2,6-quinone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H16O3/c1-7-4-12(16)14-8(2)5-13-11(6-10(7)14)9(3)15(17)18-13/h4,10,13H,5-6H2,1-3H3/t10-,13-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CTXCWPVELDJQRF-GWCFXTLKSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1
+
+> <PUBCHEM_EXACT_MASS>
+244.109944368
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H16O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+244.28
+
+> <PUBCHEM_SMILES>
+CC1=C2[C@@H](CC3=C(C(=O)O[C@H]3C1)C)C(=CC2=O)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1=C2C(CC3=C(C(=O)OC3C1)C)C(=CC2=O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+43.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+244.109944368
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+4  19  6
+6  22  5
+
+$$$$

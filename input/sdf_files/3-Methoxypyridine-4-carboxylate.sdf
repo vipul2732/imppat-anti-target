@@ -1,0 +1,150 @@
+27282456
+  -OEChem-09172610562D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.8660    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.7500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+M  CHG  1   2  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+27282456
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+143
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBiMAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAABgAAAHgAAAAAADATBmgY+jpIIFACoAjD3TASCiCA1YiAI2CE/bNgOJ3bEtJuFMWhl4BHY6YY0AAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-methoxypyridine-4-carboxylate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-methoxy-4-pyridinecarboxylate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3-methoxypyridine-4-carboxylate
+
+> <PUBCHEM_IUPAC_NAME>
+3-methoxypyridine-4-carboxylate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-methoxypyridine-4-carboxylate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-methoxyisonicotinate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H7NO3/c1-11-6-4-8-3-2-5(6)7(9)10/h2-4H,1H3,(H,9,10)/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+BPFAUAVGNNFDID-UHFFFAOYSA-M
+
+> <PUBCHEM_XLOGP3_AA>
+1
+
+> <PUBCHEM_EXACT_MASS>
+152.034768053
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H6NO3-
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+152.13
+
+> <PUBCHEM_SMILES>
+COC1=C(C=CN=C1)C(=O)[O-]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+COC1=C(C=CN=C1)C(=O)[O-]
+
+> <PUBCHEM_CACTVS_TPSA>
+62.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+152.034768053
+
+> <PUBCHEM_TOTAL_CHARGE>
+-1
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+4  8  8
+4  9  8
+5  6  8
+5  7  8
+6  8  8
+7  9  8
+
+$$$$

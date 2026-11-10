@@ -1,0 +1,207 @@
+phytochemical_name,imppat_id,n_plants,curation,excluded_as_artifact,consensus_hERG,consensus_CYP,consensus_PXR
+"1,2-Dimethylnaphthalene",IMPHY015154,4,contaminant,True,1.0,0.3055555555555556,0.2894736842105263
+4-Nonylphenol,IMPHY005126,5,contaminant,True,1.0,0.4830508474576271,0.3333333333333333
+Cumene,IMPHY007037,10,contaminant,True,1.0,0.3157894736842105,0.4347826086956521
+Dibutyl phthalate,IMPHY007903,25,contaminant,True,1.0,0.3777777777777777,0.4186046511627907
+Diisobutyl phthalate,IMPHY007194,9,contaminant,True,1.0,0.3244274809160305,0.3244274809160305
+Fluoranthene,IMPHY007335,1,contaminant,True,1.0,0.2592592592592592,0.28
+N-Phenyl-2-naphthylamine,IMPHY012102,1,contaminant,True,1.0,0.4214876033057851,0.304
+Phenanthrene,IMPHY008998,13,contaminant,True,1.0,0.3636363636363636,0.3763440860215054
+(+)-Catechin gallate,IMPHY014856,1,credible_phytochemical,False,0.8541666666666666,0.2461538461538461,0.2222222222222222
+(+)-epicatechin-3-O-gallate,IMPHY011865,3,credible_phytochemical,False,0.8541666666666666,0.2461538461538461,0.2222222222222222
+(-)-Catechin gallate,IMPHY011864,1,credible_phytochemical,False,0.8541666666666666,0.2461538461538461,0.2222222222222222
+(-)-Epicatechin gallate,IMPHY011874,6,credible_phytochemical,False,0.8541666666666666,0.2461538461538461,0.2222222222222222
+(-)-Gallocatechin gallate,IMPHY011671,1,credible_phytochemical,False,1.0,0.2163009404388714,0.2051282051282051
+(1R)-2-(methylamino)-1-phenylpropan-1-ol;hydrochloride,IMPHY005366,1,credible_phytochemical,False,1.0,0.3428571428571428,0.3555555555555555
+"(5R,5aS,8aR,9R)-5-hydroxy-9-(3,4,5-trimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-isobenzofuro[5,6-f][1,3]benzodioxol-8-one",IMPHY011850,1,credible_phytochemical,False,1.0,1.0,0.2835820895522388
+"(5S,5aR,8aR,9R)-5-[[(2R,4aR,6R,7R,8R,8aS)-7-(dimethylamino)-8-hydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",IMPHY006606,1,credible_phytochemical,False,0.4810126582278481,0.8484288354898336,0.2197802197802197
+"1,2,3,4-Tetrahydroisoquinoline",IMPHY006841,3,credible_phytochemical,False,0.2857142857142857,0.2682926829268293,1.0
+"1,4-Benzoquinone",IMPHY000773,24,credible_phytochemical,False,1.0,0.1739130434782608,0.1739130434782608
+"1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-1-penten-3-one",IMPHY005942,2,credible_phytochemical,False,1.0,0.217391304347826,0.2166666666666666
+1-(3-Aminopropyl)imidazole,IMPHY006962,1,credible_phytochemical,False,0.1515151515151515,0.1494845360824742,1.0
+1-Deoxynojirimycin,IMPHY003133,2,credible_phytochemical,False,1.0,0.1509433962264151,0.2
+1-Methylpyrrolidine-2-carboxylic acid,IMPHY012022,1,credible_phytochemical,False,0.275,0.3118279569892473,0.8372093023255814
+10-Deacetyltaxol,IMPHY001597,2,credible_phytochemical,False,0.219047619047619,0.1982758620689655,0.8380651945320715
+18-Beta-hydroxy-3-epi-alpha-yohimbine,IMPHY014422,1,credible_phytochemical,False,0.8166666666666667,0.2948717948717949,0.3769100169779287
+"2,6-Dimethoxybenzoic acid",IMPHY012148,1,credible_phytochemical,False,0.3076923076923077,0.3076923076923077,1.0
+2-Ethylbutyric acid,IMPHY016231,1,credible_phytochemical,False,0.2564102564102564,0.1860465116279069,1.0
+2-Furoic acid,IMPHY006614,7,credible_phytochemical,False,0.3050847457627119,0.2903225806451613,1.0
+2-Hydroxyisobutyric acid,IMPHY013773,1,credible_phytochemical,False,0.4444444444444444,0.2941176470588235,1.0
+2-Phenylbutanoate,IMPHY015893,1,credible_phytochemical,False,0.3555555555555555,0.3428571428571428,1.0
+"3,4,5-Trimethoxybenzoic acid",IMPHY007046,2,credible_phytochemical,False,0.3023255813953488,0.2925764192139738,1.0
+"3,4-Dimethoxybenzoic acid",IMPHY006695,5,credible_phytochemical,False,0.325,0.325,1.0
+3-Methoxybenzoic acid,IMPHY001814,1,credible_phytochemical,False,0.3783783783783784,0.3783783783783784,1.0
+3-Phenylpropionic acid,IMPHY008722,6,credible_phytochemical,False,0.373134328358209,0.6268656716417911,1.0
+3-o-beta-d-Galactopyranosyl-d-galactose,IMPHY010040,1,credible_phytochemical,False,0.195,0.2139175257731958,1.0
+4'-Demethylepipodophyllotoxin,IMPHY003965,1,credible_phytochemical,False,0.84,0.84,0.2835820895522388
+4'-Demethylpodophyllotoxin,IMPHY004016,2,credible_phytochemical,False,0.84,0.84,0.2835820895522388
+4'-Demethylpodophyllotoxin beta-D-benzylidene glucoside,IMPHY005365,1,credible_phytochemical,False,0.4747292418772563,0.8026315789473685,0.2333333333333333
+4-Ethoxybenzoic acid,IMPHY001982,1,credible_phytochemical,False,0.3170731707317073,0.3939393939393939,1.0
+4-Methoxybenzoic acid,IMPHY011515,14,credible_phytochemical,False,0.3944954128440367,0.3944954128440367,1.0
+4-Methoxyphenol,IMPHY009893,3,credible_phytochemical,False,0.3111111111111111,0.45,1.0
+4-O-beta-D-Mannopyranosyl-D-mannopyranose,IMPHY011419,1,credible_phytochemical,False,0.195,0.2139175257731958,1.0
+"9,12-Octadecadienoic acid",IMPHY012714,6,credible_phytochemical,False,0.8175675675675675,0.8175675675675675,0.8175675675675675
+9-cis-Retinal,IMPHY015456,1,credible_phytochemical,False,1.0,0.6958762886597938,0.766497461928934
+Acetyldigitoxin,IMPHY012770,1,credible_phytochemical,False,0.2318840579710145,0.1984036488027366,0.8461538461538461
+Adenosine,IMPHY012197,8,credible_phytochemical,False,1.0,0.6326530612244898,0.6875
+Ajmaline,IMPHY012468,3,credible_phytochemical,False,1.0,0.2151898734177215,0.2151898734177215
+Amorphigenin,IMPHY007839,1,credible_phytochemical,False,0.8096676737160121,0.2666666666666666,0.2588235294117647
+Anethole,IMPHY011763,149,credible_phytochemical,False,0.282051282051282,0.3142857142857143,1.0
+Apovincamine,IMPHY006694,1,credible_phytochemical,False,0.8458498023715415,0.2597402597402597,0.2531645569620253
+Artemisin,IMPHY003912,2,credible_phytochemical,False,1.0,0.2162162162162162,0.2027027027027027
+Benzyl benzoate,IMPHY010097,139,credible_phytochemical,False,0.6129032258064516,1.0,0.40625
+Benzyl salicylate,IMPHY007048,37,credible_phytochemical,False,1.0,0.6129032258064516,0.4166666666666667
+Berbamunine,IMPHY003410,1,credible_phytochemical,False,0.9075907590759076,0.2741935483870967,0.2837837837837837
+Berberine chloride,IMPHY009429,5,credible_phytochemical,False,1.0,1.0,0.2835820895522388
+Caffeic acid,IMPHY011933,260,credible_phytochemical,False,1.0,0.3023255813953488,0.3260869565217391
+Caffeine,IMPHY002965,23,credible_phytochemical,False,1.0,0.4765100671140939,0.2233333333333333
+Cephaeline,IMPHY003663,2,credible_phytochemical,False,0.8392434988179669,0.2564102564102564,0.4014084507042254
+Chlorogenic acid,IMPHY011844,184,credible_phytochemical,False,1.0,0.2611940298507462,0.2611940298507462
+Chlorogensaure,IMPHY011858,4,credible_phytochemical,False,1.0,0.2611940298507462,0.2611940298507462
+Cocaine,IMPHY001394,4,credible_phytochemical,False,1.0,0.3396226415094339,0.3015873015873015
+Codeine,IMPHY004945,3,credible_phytochemical,False,1.0,0.240506329113924,0.240506329113924
+Corynanthine,IMPHY012000,2,credible_phytochemical,False,1.0,0.3045356371490281,0.3787085514834206
+Corynoxine B,IMPHY004259,1,credible_phytochemical,False,1.0,0.2619047619047619,0.2988505747126437
+Curcumin,IMPHY007574,12,credible_phytochemical,False,1.0,1.0,1.0
+Cyclohexanecarboxylic acid,IMPHY017721,1,credible_phytochemical,False,0.2765957446808511,0.2432432432432432,1.0
+"Cyclohexanecarboxylic acid, 3-[[3-(3,4-dihydroxyphenyl)-1-oxo-2-propenyl]oxy]-1,4,5-trihydroxy-, (1S,3R,4S,5R)-",IMPHY011961,21,credible_phytochemical,False,1.0,0.2611940298507462,0.2611940298507462
+Cytisine,IMPHY001153,6,credible_phytochemical,False,0.2352941176470588,0.2816326530612245,1.0
+Daurisoline,IMPHY004575,1,credible_phytochemical,False,1.0,0.2738095238095238,0.2859450726978998
+Deacetylvinblastine,IMPHY010608,1,credible_phytochemical,False,0.8811881188118812,0.2434782608695652,0.8811881188118812
+Deserpidine,IMPHY007089,2,credible_phytochemical,False,0.8441558441558441,0.297029702970297,0.8441558441558441
+Dicumarol,IMPHY006364,1,credible_phytochemical,False,0.3157894736842105,1.0,0.3617021276595745
+Digalonin,IMPHY005294,1,credible_phytochemical,False,0.8444444444444444,0.1909090909090909,0.25
+Digitoxin,IMPHY003767,2,credible_phytochemical,False,0.219298245614035,0.2,1.0
+Digoxin,IMPHY002898,2,credible_phytochemical,False,0.219047619047619,0.21875,0.8133333333333334
+Digoxoside,IMPHY007669,1,credible_phytochemical,False,0.219047619047619,0.21875,0.8133333333333334
+Dihydrocapsaicin,IMPHY000627,1,credible_phytochemical,False,1.0,0.7608695652173914,0.7608695652173914
+Dtxsid20939464,IMPHY005487,1,credible_phytochemical,False,0.8113207547169812,0.2288135593220339,0.8113207547169812
+E-Guggulsterone,IMPHY003654,1,credible_phytochemical,False,1.0,0.5471698113207547,0.5471698113207547
+Elaidic acid,IMPHY011801,4,credible_phytochemical,False,1.0,1.0,1.0
+Ellipticine,IMPHY007925,3,credible_phytochemical,False,1.0,0.2758620689655172,0.3043478260869565
+"Emetan-6'-ol, 7',10,11-trimethoxy-, (1'beta)-",IMPHY003652,1,credible_phytochemical,False,0.8392434988179669,0.2564102564102564,0.4014084507042254
+Emetine,IMPHY000198,6,credible_phytochemical,False,1.0,0.2729166666666666,0.4050925925925926
+Emodin,IMPHY011543,52,credible_phytochemical,False,1.0,0.2244897959183673,0.2575757575757575
+Ephedrine,IMPHY011680,18,credible_phytochemical,False,1.0,0.3428571428571428,0.3555555555555555
+Epiafzelechin 3-O-gallate,IMPHY000780,1,credible_phytochemical,False,0.8461538461538461,0.2456140350877192,0.2278481012658227
+Epigallocatechin gallate,IMPHY011670,27,credible_phytochemical,False,1.0,0.2163009404388714,0.2051282051282051
+Epiisopodophyllotoxin,IMPHY011860,1,credible_phytochemical,False,1.0,1.0,0.2835820895522388
+Epipodophyllotoxin,IMPHY011849,1,credible_phytochemical,False,1.0,1.0,0.2835820895522388
+Epiquinine,IMPHY011848,1,credible_phytochemical,False,1.0,1.0,0.3636363636363636
+Ethyl linolenate,IMPHY006410,23,credible_phytochemical,False,1.0,0.4324324324324324,0.4324324324324324
+Ethylparaben,IMPHY007054,2,credible_phytochemical,False,0.3157894736842105,1.0,0.4938271604938271
+F-Gitonin,IMPHY004202,4,credible_phytochemical,False,0.8152173913043478,0.1891891891891892,0.1984126984126984
+Gitonin,IMPHY004201,2,credible_phytochemical,False,0.8152173913043478,0.1891891891891892,0.1984126984126984
+Gitoxin,IMPHY007353,2,credible_phytochemical,False,0.2403846153846154,0.202020202020202,0.8266666666666667
+Haematoxylin,IMPHY011204,2,credible_phytochemical,False,1.0,0.2121212121212121,0.2121212121212121
+Heptadecanoic acid,IMPHY000120,36,credible_phytochemical,False,0.6549295774647887,0.6549295774647887,0.8888888888888888
+Hyoscyamine,IMPHY012357,28,credible_phytochemical,False,1.0,0.4024896265560166,0.3240223463687151
+Inosine,IMPHY006305,2,credible_phytochemical,False,0.6326530612244898,1.0,0.5660377358490566
+Isoajmaline,IMPHY014939,1,credible_phytochemical,False,1.0,0.2151898734177215,0.2151898734177215
+Isobutyric acid,IMPHY006907,22,credible_phytochemical,False,0.25,0.5,1.0
+Isoeugenol,IMPHY011640,59,credible_phytochemical,False,0.3260869565217391,0.3333333333333333,1.0
+Isoleurosine,IMPHY003621,1,credible_phytochemical,False,0.8476190476190476,0.2230769230769231,0.8476190476190476
+Isoliquiritigenin,IMPHY006489,17,credible_phytochemical,False,1.0,0.3229166666666667,0.3260869565217391
+Isonicotinic acid,IMPHY006265,1,credible_phytochemical,False,0.52,0.52,1.0
+Isopentyl cinnamate,IMPHY015747,1,credible_phytochemical,False,1.0,0.703125,0.2834645669291338
+Isorauhimbine,IMPHY011996,1,credible_phytochemical,False,1.0,0.3045356371490281,0.3787085514834206
+Isorhynchophylline,IMPHY004263,3,credible_phytochemical,False,1.0,0.2619047619047619,0.2988505747126437
+Isovaleric acid,IMPHY001109,43,credible_phytochemical,False,0.5555555555555556,0.2631578947368421,1.0
+Kaempferol,IMPHY004388,404,credible_phytochemical,False,1.0,0.7837837837837838,0.2826086956521739
+Lactic acid,IMPHY006327,20,credible_phytochemical,False,0.2,1.0,0.5
+Leurosine,IMPHY000998,3,credible_phytochemical,False,0.8073394495412844,0.2272727272727272,0.8073394495412844
+Linoleic acid,IMPHY014990,650,credible_phytochemical,False,0.8175675675675675,0.8175675675675675,0.8175675675675675
+Lobeline,IMPHY002348,2,credible_phytochemical,False,1.0,0.3333333333333333,0.4017341040462427
+Melatonin,IMPHY015811,7,credible_phytochemical,False,0.3425925925925926,1.0,0.396551724137931
+Methoxsalen,IMPHY003037,48,credible_phytochemical,False,0.2807017543859649,1.0,0.3
+Methyl chlorogenate,IMPHY007112,1,credible_phytochemical,False,0.803921568627451,0.2905569007263922,0.2905569007263922
+Methylecgonine,IMPHY012469,1,credible_phytochemical,False,1.0,0.2063492063492063,0.2783505154639175
+Morin,IMPHY005463,11,credible_phytochemical,False,1.0,0.6666666666666666,0.2295081967213114
+Morphine,IMPHY004885,8,credible_phytochemical,False,1.0,0.2307692307692307,0.2307692307692307
+"N-beta-Hydroxyethyl-vds, sulfate salt",IMPHY003446,1,credible_phytochemical,False,0.8,0.2276422764227642,0.8
+Neochlorogenic acid,IMPHY011914,29,credible_phytochemical,False,1.0,0.2611940298507462,0.2611940298507462
+Nicotine,IMPHY007301,22,credible_phytochemical,False,1.0,0.3021978021978022,0.28125
+Nicotinic acid,IMPHY007357,113,credible_phytochemical,False,0.3125,1.0,1.0
+Nonanoic acid,IMPHY012100,79,credible_phytochemical,False,0.4333333333333333,0.48,1.0
+O-methylthalibrine,IMPHY012439,1,credible_phytochemical,False,0.82,0.2948717948717949,0.2825396825396825
+Oleic acid,IMPHY011797,677,credible_phytochemical,False,1.0,1.0,1.0
+Palaudine,IMPHY005097,1,credible_phytochemical,False,0.8,0.2835820895522388,0.3773584905660377
+Palmitic acid,IMPHY007327,884,credible_phytochemical,False,0.624113475177305,0.624113475177305,1.0
+Papaverine,IMPHY000788,8,credible_phytochemical,False,1.0,0.3214285714285714,0.4435146443514644
+Pentadecanoic acid,IMPHY002667,98,credible_phytochemical,False,0.5673758865248227,0.5673758865248227,0.8627450980392157
+Phenethyl anthranilate,IMPHY015296,4,credible_phytochemical,False,1.0,0.3947368421052631,0.3125
+Phenethylamine,IMPHY000521,10,credible_phytochemical,False,0.5217391304347826,0.5217391304347826,1.0
+Phloretin,IMPHY000813,1,credible_phytochemical,False,1.0,0.3035714285714285,0.3170731707317073
+Phytonadione,IMPHY012771,3,credible_phytochemical,False,1.0,1.0,0.2241379310344827
+Picropodophyllin,IMPHY011847,3,credible_phytochemical,False,1.0,1.0,0.2835820895522388
+Piperidine,IMPHY007188,8,credible_phytochemical,False,0.2222222222222222,0.125,0.8666666666666667
+Podofilox,IMPHY011846,6,credible_phytochemical,False,1.0,1.0,0.2835820895522388
+Pseudoephedrine,IMPHY011691,7,credible_phytochemical,False,1.0,0.3428571428571428,0.3555555555555555
+Pseudoyohimbine,IMPHY011994,1,credible_phytochemical,False,1.0,0.3045356371490281,0.3787085514834206
+Pyrogallol,IMPHY000103,15,credible_phytochemical,False,1.0,0.4117647058823529,0.3636363636363636
+Quercetin,IMPHY004619,602,credible_phytochemical,False,0.7837837837837838,1.0,0.22
+Quinidine,IMPHY011689,5,credible_phytochemical,False,1.0,1.0,0.3636363636363636
+Quinine,IMPHY011837,14,credible_phytochemical,False,1.0,1.0,0.3636363636363636
+Racephedrine,IMPHY014720,1,credible_phytochemical,False,1.0,0.3428571428571428,0.3555555555555555
+Rauwolscine,IMPHY011998,3,credible_phytochemical,False,1.0,0.3045356371490281,0.3787085514834206
+Reserpine,IMPHY012049,8,credible_phytochemical,False,1.0,0.2526315789473684,1.0
+Resorcinol,IMPHY004665,11,credible_phytochemical,False,0.4117647058823529,1.0,0.3181818181818182
+Retinal,IMPHY016026,1,credible_phytochemical,False,1.0,0.6958762886597938,0.766497461928934
+Retinol,IMPHY001308,47,credible_phytochemical,False,1.0,1.0,1.0
+Rhynchophylline,IMPHY004258,3,credible_phytochemical,False,1.0,0.2619047619047619,0.2988505747126437
+Roseamine,IMPHY003632,1,credible_phytochemical,False,0.8476190476190476,0.2230769230769231,0.8476190476190476
+Rotenone,IMPHY007255,19,credible_phytochemical,False,1.0,0.2758620689655172,0.2682926829268293
+Salicylic acid,IMPHY011523,73,credible_phytochemical,False,0.3636363636363636,0.6086956521739131,1.0
+Sanguinarine,IMPHY004539,24,credible_phytochemical,False,1.0,0.296875,0.2537313432835821
+Serotonin,IMPHY004653,27,credible_phytochemical,False,0.391304347826087,1.0,0.5882352941176471
+Sikkimotoxin,IMPHY004106,1,credible_phytochemical,False,0.8333333333333334,0.8333333333333334,0.2982456140350877
+Stearic acid,IMPHY004631,624,credible_phytochemical,False,0.7183098591549296,0.7183098591549296,0.8205128205128205
+Synephrine,IMPHY006546,2,credible_phytochemical,False,1.0,1.0,0.5569620253164557
+Taurine,IMPHY000040,6,credible_phytochemical,False,0.1851851851851851,0.1481481481481481,1.0
+Thaligrisine,IMPHY000671,1,credible_phytochemical,False,0.8490566037735849,0.2734138972809667,0.2744479495268139
+Theobromine,IMPHY006394,10,credible_phytochemical,False,1.0,0.3468208092485549,0.2156862745098039
+Tropic acid,IMPHY000686,2,credible_phytochemical,False,0.3125,0.3142857142857143,1.0
+Tryptamine,IMPHY001842,15,credible_phytochemical,False,0.3262411347517731,0.5882352941176471,1.0
+Undecylenic acid,IMPHY009154,1,credible_phytochemical,False,0.3636363636363636,1.0,0.48
+Vinblastine,IMPHY015109,1,credible_phytochemical,False,1.0,0.2393162393162393,1.0
+Vincristine,IMPHY006298,4,credible_phytochemical,False,0.883495145631068,0.2457627118644068,0.883495145631068
+Vinrosidine,IMPHY015112,1,credible_phytochemical,False,1.0,0.2393162393162393,1.0
+Yohimbine,IMPHY011997,4,credible_phytochemical,False,1.0,0.3045356371490281,0.3787085514834206
+allo-Yohimbine,IMPHY011993,2,credible_phytochemical,False,1.0,0.3045356371490281,0.3787085514834206
+beta-Hydrastine,IMPHY005632,6,credible_phytochemical,False,1.0,0.3472222222222222,0.3
+beta-Lactose,IMPHY011294,10,credible_phytochemical,False,0.195,0.2139175257731958,1.0
+beta-Lapachone,IMPHY007513,4,credible_phytochemical,False,1.0,0.3333333333333333,0.2459016393442623
+beta-Maltose,IMPHY014998,16,credible_phytochemical,False,0.195,0.2139175257731958,1.0
+beta-Yohimbine,IMPHY012007,3,credible_phytochemical,False,1.0,0.3045356371490281,0.3787085514834206
+cis-Anethole,IMPHY011762,24,credible_phytochemical,False,0.282051282051282,0.3142857142857143,1.0
+cis-Isoeugenol,IMPHY011629,11,credible_phytochemical,False,0.3260869565217391,0.3333333333333333,1.0
+p-Cresol,IMPHY003113,29,credible_phytochemical,False,0.2985074626865671,1.0,0.45
+trans-Stilbene,IMPHY006487,9,credible_phytochemical,False,1.0,0.2608695652173913,0.282051282051282
+17alpha-Estradiol,IMPHY007235,2,uncertain,False,0.3721973094170404,1.0,0.625
+Androstenedione,IMPHY012054,1,uncertain,False,1.0,0.6170212765957447,0.6170212765957447
+Cotinine,IMPHY007075,3,uncertain,False,1.0,0.2964824120603015,0.2964824120603015
+Deoxycholic acid,IMPHY017215,1,uncertain,False,0.7735849056603774,1.0,0.6101694915254238
+Estrone,IMPHY012051,4,uncertain,False,0.4313725490196078,0.625,1.0
+Menadione,IMPHY002992,3,uncertain,False,0.3823529411764705,1.0,0.2702702702702703
+Pregnenolone,IMPHY007300,2,uncertain,False,0.5555555555555556,1.0,0.5555555555555556
+Progesterone,IMPHY006299,3,uncertain,False,1.0,1.0,1.0
+"1-(4-Methanesulfonamidophenoxy)-3-(N-methyl-3,4-dichlorophenylethylamino)-2-propanol",IMPHY007824,1,xenobiotic,True,1.0,0.3333333333333333,0.2531645569620253
+4-(2-Aminopropyl)phenol,IMPHY017284,1,xenobiotic,True,0.3529411764705882,1.0,1.0
+4-Aminopyridine,IMPHY017165,1,xenobiotic,True,1.0,0.5,1.0
+Amiloxate,IMPHY016696,1,xenobiotic,True,0.703125,1.0,0.3488372093023256
+Chlorobutanol,IMPHY012052,1,xenobiotic,True,1.0,0.0611111111111111,0.2
+Cyproheptadine hydrochloride,IMPHY002649,1,xenobiotic,True,1.0,0.525,0.525
+Dipyridamole,IMPHY003510,1,xenobiotic,True,1.0,0.2115384615384615,1.0
+Fenretinide,IMPHY012772,2,xenobiotic,True,1.0,0.4525316455696203,0.5570032573289903
+Guaifenesin,IMPHY012040,1,xenobiotic,True,0.4064516129032258,1.0,0.3191489361702128
+Homatropine,IMPHY005532,1,xenobiotic,True,1.0,0.4317180616740088,0.2840579710144927
+Methyl isobutyl ketone,IMPHY008369,12,xenobiotic,True,1.0,0.1463414634146341,0.5555555555555556
+Morpholine,IMPHY012096,1,xenobiotic,True,0.2083333333333333,0.1341463414634146,1.0
+Musk ambrette,IMPHY016761,1,xenobiotic,True,1.0,0.2552447552447552,0.3409090909090909
+Phorbol 12-myristate 13-acetate,IMPHY002901,3,xenobiotic,True,1.0,0.1904761904761904,0.1842105263157894
+"Phorbol acetate, caprate",IMPHY009371,1,xenobiotic,True,0.8114104595879557,0.1904761904761904,0.1808695652173913
+Quinacrine,IMPHY013736,1,xenobiotic,True,1.0,1.0,0.5483870967741935
+Triphenylphosphine,IMPHY013774,1,xenobiotic,True,1.0,0.28,0.28
+Triprolidine,IMPHY005575,2,xenobiotic,True,1.0,1.0,0.2962962962962963
+Vinpocetine,IMPHY000807,1,xenobiotic,True,1.0,0.275,0.275
+alpha-Hexylcinnamaldehyde,IMPHY016687,1,xenobiotic,True,1.0,0.2888888888888888,0.2954545454545454

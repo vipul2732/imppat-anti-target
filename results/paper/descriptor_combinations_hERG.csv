@@ -1,0 +1,16 @@
+auc,descriptors
+0.771414976728928,all
+0.7472501518321074,basic_n + fraction_csp3 + balaban
+0.7436125845543524,basic_n + fraction_csp3
+0.7434207318184438,basic_n + fraction_csp3 + heteroatoms
+0.7434197466952812,basic_n + fraction_csp3 + mr
+0.7433160624824218,basic_n + fraction_csp3 + rings
+0.7429385140303704,aromatic_rings + basic_n + fraction_csp3
+0.7425806680415703,basic_n + fraction_csp3 + bertz
+0.7240458220187833,aromatic_rings + basic_n + bertz
+0.7198753031100831,aromatic_rings + basic_n + heteroatoms
+0.7190748905405026,aromatic_rings + basic_n + rings
+0.7176760156496667,aromatic_rings + basic_n
+0.716530071130818,aromatic_rings + basic_n + balaban
+0.7163167919661235,aromatic_rings + basic_n + mr
+0.6832752685322602,aromatic_rings + rings + bertz

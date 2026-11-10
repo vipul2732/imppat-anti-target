@@ -1,0 +1,160 @@
+93073
+  -OEChem-09172607042D
+
+ 24 25  0     1  0  0  0  0  0999 V2000
+    6.2385    0.7345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7147   -0.2226    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.1137   -0.7314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9735    0.7433    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.2369    1.7259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3420   -0.8146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3725    0.2345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0272   -1.1382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0091   -1.7259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7328   -0.8423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9595    0.1235    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5547    2.2583    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6238    1.8179    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7636   -1.0379    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5765   -1.3886    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8057    0.7138    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4142   -0.0781    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7750   -1.7046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5936   -1.3903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2794   -0.5718    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3925   -1.6611    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9443   -2.3425    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6257   -1.7908    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+93073
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+181
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwIAAAAAAAAAAAAAAAAAAAAYMAAAAwAAAAAAAAAAAAAAAAGgAAAAAADwSAgAACAAAAAAAIAIAQAAAAAAAAAAAAAAEAAAAAABIAAAAAAAAAAAAAAAEIiMCPgAAAAAAAAAAAAAQAACAAAQAACAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3,3-dimethylnorbornan-2-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3,3-dimethyl-2-bicyclo[2.2.1]heptanone
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3,3-dimethylbicyclo[2.2.1]heptan-2-one
+
+> <PUBCHEM_IUPAC_NAME>
+3,3-dimethylbicyclo[2.2.1]heptan-2-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3,3-dimethylbicyclo[2.2.1]heptan-2-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3,3-dimethylnorbornan-2-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H14O/c1-9(2)7-4-3-6(5-7)8(9)10/h6-7H,3-5H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZYPYEBYNXWUCEA-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.9
+
+> <PUBCHEM_EXACT_MASS>
+138.104465066
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H14O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+138.21
+
+> <PUBCHEM_SMILES>
+CC1(C2CCC(C2)C1=O)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1(C2CCC(C2)C1=O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+17.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+138.104465066
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  6  3
+4  7  3
+
+$$$$

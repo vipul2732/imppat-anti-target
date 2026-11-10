@@ -1,0 +1,16 @@
+auc,descriptors
+0.7301872592195173,all
+0.6515681935036775,fraction_csp3 + spiro + basic_n
+0.6492224234159718,spiro + kappa1 + mw
+0.637490592329302,aromatic_rings + spiro + basic_n
+0.6352156126349675,fraction_csp3 + spiro
+0.6333296075231558,fraction_csp3 + spiro + mw
+0.633008442685862,aromatic_rings + spiro + kappa1
+0.6324600034277453,aromatic_rings + spiro
+0.6324592582657098,fraction_csp3 + spiro + aliphatic_rings
+0.6313139442171699,fraction_csp3 + spiro + chi0v
+0.6307841340099405,fraction_csp3 + spiro + kappa1
+0.6301924753537657,aromatic_rings + spiro + mw
+0.6274920081371694,fraction_csp3 + basic_n
+0.6266104814491911,fraction_csp3 + basic_n + mw
+0.626347439250665,aromatic_rings + spiro + chi0v

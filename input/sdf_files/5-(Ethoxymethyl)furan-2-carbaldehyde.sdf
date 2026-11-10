@@ -1,0 +1,156 @@
+12648080
+  -OEChem-09172611202D
+
+ 21 21  0     0  0  0  0  0  0999 V2000
+    3.6942    0.3423    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1974   -0.6056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7006    0.3423    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4374   -0.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3884   -0.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6974    0.9333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431    0.0333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0064   -0.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6974    0.9333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9575   -0.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9488   -0.7085    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7284   -0.8742    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2546   -0.3484    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0342   -0.5141    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330    1.4348    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0618    1.4348    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4149    1.1632    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5392    1.1173    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5851    0.2417    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0864   -0.9333    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12648080
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+125
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgAAAAAACASgkAIyBIAABECIAKhSgAICCAAkIAAIiAFGCMgNJjKENR6CGSCkwBEKqYeIbgxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-(ethoxymethyl)furan-2-carbaldehyde
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-(ethoxymethyl)-2-furancarboxaldehyde
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+5-(ethoxymethyl)furan-2-carbaldehyde
+
+> <PUBCHEM_IUPAC_NAME>
+5-(ethoxymethyl)furan-2-carbaldehyde
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-(ethoxymethyl)furan-2-carbaldehyde
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-(ethoxymethyl)furfural
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H10O3/c1-2-10-6-8-4-3-7(5-9)11-8/h3-5H,2,6H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CCDRPZFMDMKZSZ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+0.3
+
+> <PUBCHEM_EXACT_MASS>
+154.062994177
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H10O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+154.16
+
+> <PUBCHEM_SMILES>
+CCOCC1=CC=C(O1)C=O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CCOCC1=CC=C(O1)C=O
+
+> <PUBCHEM_CACTVS_TPSA>
+39.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+154.062994177
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  5  8
+2  8  8
+5  6  8
+6  9  8
+8  9  8
+
+$$$$

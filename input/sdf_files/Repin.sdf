@@ -1,0 +1,217 @@
+91567
+  -OEChem-09172610462D
+
+ 48 52  0     1  0  0  0  0  0999 V2000
+    4.6436   -2.9917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7230   -1.8420    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0268   -3.8305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5448    1.3234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.4098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8479    3.6140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1053    2.0749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6146   -2.7529    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.4786   -1.7682    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.3796   -1.3343    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.5929   -2.9296    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.5777   -1.3343    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3359   -3.7133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0647   -2.0546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3551   -0.3594    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.6021   -0.3594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9786    0.4225    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.9786    0.4225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3648   -0.2728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9749   -1.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5771   -0.1369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8505    0.5847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6742    3.0506    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.1081    2.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7732    2.6168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2375    3.8769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7916   -2.2687    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1993   -1.1092    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2127   -2.9438    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6147   -2.1835    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9698   -4.2137    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8922   -3.9869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5765   -2.4046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4666   -1.5825    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1838   -0.5485    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3625    0.4919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5372    0.6915    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8407    1.0269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6450   -3.8769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9988   -0.5913    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7598    0.4556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1515    1.1268    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2305    0.5744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1563    2.5550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9411    2.0199    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7498    3.5276    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5868    4.3891    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7252    4.2261    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  6  0  0  0
+  1 13  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 20  1  0  0  0  0
+ 11  3  1  1  0  0  0
+  3 39  1  0  0  0  0
+ 17  4  1  1  0  0  0
+  4 24  1  0  0  0  0
+  5 20  2  0  0  0  0
+  6 23  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7 24  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 27  1  6  0  0  0
+ 10 14  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 28  1  1  0  0  0
+ 11 14  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 30  1  1  0  0  0
+ 13 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 35  1  1  0  0  0
+ 16 18  1  0  0  0  0
+ 16 21  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 21 40  1  0  0  0  0
+ 21 41  1  0  0  0  0
+ 22 42  1  0  0  0  0
+ 22 43  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 23 26  1  1  0  0  0
+ 25 44  1  0  0  0  0
+ 25 45  1  0  0  0  0
+ 26 46  1  0  0  0  0
+ 26 47  1  0  0  0  0
+ 26 48  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+91567
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+744
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB4OAAAAAAAAAAAAAAAEiQAAaIAAAAAAAAABgAAAADQAAAAGgAACAAADVSggAICCAAABgCIAgDSCAIAAAAgAAAAAAFAAEgBFBYAIQQCQAAF4AADIIHK6PyOgAAAAAAAAAAAAAAAAAAAAYAADCAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[(3aR,4S,6aR,8R,9S,9aR,9bR)-8-hydroxy-3,6-dimethylene-2-oxo-spiro[3a,4,5,6a,7,8,9a,9b-octahydroazuleno[4,5-b]furan-9,2'-oxirane]-4-yl] (2S)-2-methyloxirane-2-carboxylate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S)-2-methyl-2-oxiranecarboxylic acid [(3aR,4S,6aR,8R,9S,9aR,9bR)-8-hydroxy-3,6-dimethylene-2-oxo-4-spiro[3a,4,5,6a,7,8,9a,9b-octahydroazuleno[4,5-b]furan-9,2'-oxirane]yl] ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[(3<I>a</I><I>R</I>,4<I>S</I>,6<I>a</I><I>R</I>,8<I>R</I>,9<I>S</I>,9<I>a</I><I>R</I>,9<I>b</I><I>R</I>)-8-hydroxy-3,6-dimethylidene-2-oxospiro[3<I>a</I>,4,5,6<I>a</I>,7,8,9<I>a</I>,9<I>b</I>-octahydroazuleno[4,5-b]furan-9,2&apos;-oxirane]-4-yl] (2<I>S</I>)-2-methyloxirane-2-carboxylate
+
+> <PUBCHEM_IUPAC_NAME>
+[(3aR,4S,6aR,8R,9S,9aR,9bR)-8-hydroxy-3,6-dimethylidene-2-oxospiro[3a,4,5,6a,7,8,9a,9b-octahydroazuleno[4,5-b]furan-9,2'-oxirane]-4-yl] (2S)-2-methyloxirane-2-carboxylate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[(3aR,4S,6aR,8R,9S,9aR,9bR)-3,6-dimethylidene-8-oxidanyl-2-oxidanylidene-spiro[3a,4,5,6a,7,8,9a,9b-octahydroazuleno[4,5-b]furan-9,2'-oxirane]-4-yl] (2S)-2-methyloxirane-2-carboxylate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S)-2-methyloxirane-2-carboxylic acid [(3aR,4S,6aR,8R,9S,9aR,9bR)-8-hydroxy-2-keto-3,6-dimethylene-spiro[3a,4,5,6a,7,8,9a,9b-octahydroazuleno[4,5-b]furan-9,2'-oxirane]-4-yl] ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C19H22O7/c1-8-4-11(25-17(22)18(3)6-23-18)13-9(2)16(21)26-15(13)14-10(8)5-12(20)19(14)7-24-19/h10-15,20H,1-2,4-7H2,3H3/t10-,11-,12+,13+,14+,15+,18-,19-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+HQZJODBJOBTCPI-VHCPEVEQSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.3
+
+> <PUBCHEM_EXACT_MASS>
+362.13655304
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C19H22O7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+362.4
+
+> <PUBCHEM_SMILES>
+C[C@]1(CO1)C(=O)O[C@H]2CC(=C)[C@@H]3C[C@H]([C@]4([C@H]3[C@H]5[C@@H]2C(=C)C(=O)O5)CO4)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1(CO1)C(=O)OC2CC(=C)C3CC(C4(C3C5C2C(=C)C(=O)O5)CO4)O
+
+> <PUBCHEM_CACTVS_TPSA>
+97.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+362.13655304
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+26
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+8
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+8  1  6
+10  28  5
+12  30  5
+15  35  5
+23  26  5
+11  3  5
+17  4  5
+9  27  6
+
+$$$$

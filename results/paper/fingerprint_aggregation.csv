@@ -1,0 +1,4 @@
+anti_target,n_reference,n_min_ge_0.80,n_mean_ge_0.80
+hERG,8877,137,188
+CYP,4905,45,67
+PXR,4138,69,108

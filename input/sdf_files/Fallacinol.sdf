@@ -1,0 +1,191 @@
+3083633
+  -OEChem-09172610562D
+
+ 34 36  0     0  0  0  0  0  0999 V2000
+    8.1465    1.8592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981   -2.1754    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    1.8246    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6497    1.8592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8680   -1.1995    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7961   -0.7029    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641   -0.6754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    0.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    0.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -0.6754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981   -1.1754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    0.8246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1580   -1.2101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1580    0.8593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0641   -0.6962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6381    0.8593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6381   -1.2101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0641    0.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.6962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9282   -1.1995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1509   -1.8300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6453   -1.8300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5998    0.6575    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1963    0.6575    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5278   -1.6730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3249   -1.6760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6798    2.1754    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1164    2.1754    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3319   -1.0150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3079   -0.1648    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4619   -0.3950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6921   -1.2410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 29  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4 16  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 26  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 21 28  1  0  0  0  0
+ 22 32  1  0  0  0  0
+ 22 33  1  0  0  0  0
+ 22 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3083633
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+464
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4OAAAAAAAAAAAAAAAAAAAAAAAAAAwYMAAAAAAAADBQAAAGgAACAAADASgmAIyBoAABgCIAqBSAAACCAAkIAAAiAEGCMgMNzaGNRqAcWAl4BUIuYfL7PzO4AADCAAYAADAAAYQADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,8-dihydroxy-3-(hydroxymethyl)-6-methoxy-anthracene-9,10-dione
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,8-dihydroxy-3-(hydroxymethyl)-6-methoxyanthracene-9,10-dione
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,8-dihydroxy-3-(hydroxymethyl)-6-methoxyanthracene-9,10-dione
+
+> <PUBCHEM_IUPAC_NAME>
+1,8-dihydroxy-3-(hydroxymethyl)-6-methoxyanthracene-9,10-dione
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-(hydroxymethyl)-6-methoxy-1,8-bis(oxidanyl)anthracene-9,10-dione
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,8-dihydroxy-3-methoxy-6-methylol-9,10-anthraquinone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H12O6/c1-22-8-4-10-14(12(19)5-8)16(21)13-9(15(10)20)2-7(6-17)3-11(13)18/h2-5,17-19H,6H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+WJXSYUJKJSOJOG-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.8
+
+> <PUBCHEM_EXACT_MASS>
+300.06338810
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H12O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+300.26
+
+> <PUBCHEM_SMILES>
+COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)CO
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)CO
+
+> <PUBCHEM_CACTVS_TPSA>
+104
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+300.06338810
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  17  8
+13  15  8
+14  18  8
+15  18  8
+16  20  8
+17  19  8
+19  20  8
+7  13  8
+7  8  8
+8  14  8
+9  10  8
+9  16  8
+
+$$$$

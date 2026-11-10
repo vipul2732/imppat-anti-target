@@ -1,0 +1,190 @@
+91734838
+  -OEChem-09172608432D
+
+ 34 36  0     1  0  0  0  0  0999 V2000
+    2.5836   -2.0894    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2778    1.2846    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3798    0.7569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1799    0.7638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3959   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1719   -0.2778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -0.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5298   -0.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -1.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2740    2.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5298   -1.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3959   -2.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5836   -0.4799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1279   -2.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2730    0.4706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8142    1.5957    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1618    1.3373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7707    0.6414    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7899    0.6530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3935    1.3459    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3764   -0.8631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7835   -0.1764    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8940    2.2870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2716    2.9046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6540    2.2822    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3959   -2.9046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8179   -2.8216    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6648   -2.5946    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4379   -1.7477    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3800   -1.2846    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8623    0.6632    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0803    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6836    0.2780    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  6  0  0  0
+  2 17  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+91734838
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+262
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIAAAAAAAAAAAAAAAAAAAASAAAAAwYAAAAAAAAEjB8AAAGgAAAAAADQSgmAIyBsAABECIAqhSgAACCAAkIAAAiAEGCMgMJjKENRqCOSCkwBEIqQeIyPCO4AADAAAYAADAAAYAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(8R)-1,5,8-trimethyl-6,7,8,9-tetrahydrobenzo[e]benzofuran
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(8R)-1,5,8-trimethyl-6,7,8,9-tetrahydrobenzo[e]benzofuran
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(8<I>R</I>)-1,5,8-trimethyl-6,7,8,9-tetrahydrobenzo[e][1]benzofuran
+
+> <PUBCHEM_IUPAC_NAME>
+(8R)-1,5,8-trimethyl-6,7,8,9-tetrahydrobenzo[e][1]benzofuran
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(8R)-1,5,8-trimethyl-6,7,8,9-tetrahydrobenzo[e][1]benzofuran
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(8R)-1,5,8-trimethyl-6,7,8,9-tetrahydrobenzo[e]benzofuran
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H18O/c1-9-4-5-12-10(2)7-14-15(13(12)6-9)11(3)8-16-14/h7-9H,4-6H2,1-3H3/t9-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+GWQCNWWIXOLIAV-SECBINFHSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.7
+
+> <PUBCHEM_EXACT_MASS>
+214.135765193
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H18O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+214.30
+
+> <PUBCHEM_SMILES>
+C[C@@H]1CCC2=C(C1)C3=C(C=C2C)OC=C3C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1CCC2=C(C1)C3=C(C=C2C)OC=C3C
+
+> <PUBCHEM_CACTVS_TPSA>
+13.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+214.135765193
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  11  8
+1  15  8
+11  12  8
+13  15  8
+2  10  6
+5  7  8
+5  8  8
+7  9  8
+8  11  8
+8  13  8
+9  12  8
+
+$$$$

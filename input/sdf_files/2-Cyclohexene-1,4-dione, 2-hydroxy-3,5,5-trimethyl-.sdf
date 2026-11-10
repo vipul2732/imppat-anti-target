@@ -1,0 +1,155 @@
+37246
+  -OEChem-09172608372D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+    2.0000    1.2220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.7780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.7780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.2220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.7220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.7220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2321    2.0880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2321    2.0880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -0.7780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2087    0.6143    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8101    1.3046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690    1.7780    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5421    2.6250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6951    2.3980    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7690    2.3980    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9221    2.6250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6951    1.7780    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.2411    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.0880    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.3150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.0880    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2 11  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+37246
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+284
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAGgAACAAADgSAgAACAAAAAgCIAoBQAAIAAAAgIAAACAFAAEgAABIAAAAAQAAEgAAIAQOJzCAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-hydroxy-3,5,5-trimethyl-cyclohex-2-ene-1,4-dione
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-hydroxy-3,5,5-trimethylcyclohex-2-ene-1,4-dione
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-hydroxy-3,5,5-trimethylcyclohex-2-ene-1,4-dione
+
+> <PUBCHEM_IUPAC_NAME>
+2-hydroxy-3,5,5-trimethylcyclohex-2-ene-1,4-dione
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3,5,5-trimethyl-2-oxidanyl-cyclohex-2-ene-1,4-dione
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-hydroxy-3,5,5-trimethyl-cyclohex-2-ene-1,4-quinone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H12O3/c1-5-7(11)6(10)4-9(2,3)8(5)12/h11H,4H2,1-3H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+BSRFZJMVFOPNKR-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.9
+
+> <PUBCHEM_EXACT_MASS>
+168.078644241
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H12O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+168.19
+
+> <PUBCHEM_SMILES>
+CC1=C(C(=O)CC(C1=O)(C)C)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1=C(C(=O)CC(C1=O)(C)C)O
+
+> <PUBCHEM_CACTVS_TPSA>
+54.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+168.078644241
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

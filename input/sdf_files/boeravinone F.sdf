@@ -1,0 +1,201 @@
+12004175
+  -OEChem-09172607462D
+
+ 34 37  0     0  0  0  0  0  0999 V2000
+    3.7702    1.3137    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8522   -1.2347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2724    1.3106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3683   -0.1863    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5143    4.3830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.3169    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6894   -4.3830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6362   -0.1863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5022    1.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6523   -1.2278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5022    0.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6362    1.8137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702    0.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4122    1.8206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7542   -1.7555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4203    2.8622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6202    2.8552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5182    3.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8602   -0.1931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6042   -1.7484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7459   -2.8405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2882    3.3588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6209   -2.8333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6855   -3.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0797    3.1590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1351   -1.4281    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2077   -3.1484    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5961    2.8207    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8263    3.6668    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9803    3.8970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1614   -3.1370    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8129    1.6144    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9762    4.6909    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2275   -4.6909    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 32  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 18  1  0  0  0  0
+  5 33  1  0  0  0  0
+  6 19  2  0  0  0  0
+  7 24  1  0  0  0  0
+  7 34  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 25  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 20 26  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 21 27  1  0  0  0  0
+ 22 28  1  0  0  0  0
+ 22 29  1  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12004175
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+612
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4OAAAAAAAAAAAAAAAAAAAAAAAAAAwYIEAAAAAAACRQAAAGgAACAAADASAmAAyDoAABgCIAqDSCAICCAAkIAAIiAFGCMgNJzaGNR6Ce2Cl4BUKuQeK7PzOIAACCAAIAABAAAQQABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3,9,11-trihydroxy-10-methyl-chromeno[3,4-b]chromene-6,12-dione
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3,9,11-trihydroxy-10-methyl[1]benzopyrano[3,4-b][1]benzopyran-6,12-dione
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3,9,11-trihydroxy-10-methylchromeno[3,4-b]chromene-6,12-dione
+
+> <PUBCHEM_IUPAC_NAME>
+3,9,11-trihydroxy-10-methylchromeno[3,4-b]chromene-6,12-dione
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+10-methyl-3,9,11-tris(oxidanyl)chromeno[3,4-b]chromene-6,12-dione
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3,9,11-trihydroxy-10-methyl-chromeno[3,4-b]chromene-6,12-quinone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C17H10O7/c1-6-9(19)5-11-13(14(6)20)15(21)12-8-3-2-7(18)4-10(8)24-17(22)16(12)23-11/h2-5,18-20H,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IRFJPHPNKCAISA-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.7
+
+> <PUBCHEM_EXACT_MASS>
+326.04265265
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C17H10O7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+326.26
+
+> <PUBCHEM_SMILES>
+CC1=C(C2=C(C=C1O)OC3=C(C2=O)C4=C(C=C(C=C4)O)OC3=O)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1=C(C2=C(C=C1O)OC3=C(C2=O)C4=C(C=C(C=C4)O)OC3=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+113
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+326.04265265
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+24
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  12  8
+1  13  8
+10  15  8
+10  20  8
+12  17  8
+13  19  8
+14  16  8
+15  21  8
+16  18  8
+17  18  8
+2  15  8
+2  19  8
+20  23  8
+21  24  8
+23  24  8
+8  10  8
+8  11  8
+8  13  8
+9  11  8
+9  12  8
+9  14  8
+
+$$$$

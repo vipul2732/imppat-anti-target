@@ -1,0 +1,182 @@
+5318245
+  -OEChem-09172611102D
+
+ 33 34  0     0  0  0  0  0  0999 V2000
+    6.3301   -1.8246    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0785   -1.8592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.1754    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    2.1754    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.6754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.8246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.6754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.1754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0901   -0.8593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0901    1.2100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.8246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9962   -0.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9962    0.6962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.8246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996   -1.2996    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966   -1.2996    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.2954    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0829    1.8300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5319   -0.6575    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5319    1.0083    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7932   -2.1346    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    0.2123    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.0146    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.8615    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460   -1.8246    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.4446    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860   -1.8246    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6118   -2.1754    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 33  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 11  2  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 14  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 27  1  0  0  0  0
+ 18 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5318245
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+469
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwOAAAAAAAAAAAAAAAAAAAAAAAAAAwQAAAAAAAAACBAAAAGgAACAAADASAmAAyBoAAAgCIAqBSAAACAAAkIAAIiAEGCMgIJzKCFRKAcQAlwBEImYeKzPDOgAABAAAYAAAAAAIAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4,5-dihydroxy-3-(3-methylbut-2-enyl)naphthalene-1,2-dione
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4,5-dihydroxy-3-(3-methylbut-2-enyl)naphthalene-1,2-dione
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4,5-dihydroxy-3-(3-methylbut-2-enyl)naphthalene-1,2-dione
+
+> <PUBCHEM_IUPAC_NAME>
+4,5-dihydroxy-3-(3-methylbut-2-enyl)naphthalene-1,2-dione
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-(3-methylbut-2-enyl)-4,5-bis(oxidanyl)naphthalene-1,2-dione
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4,5-dihydroxy-3-(3-methylbut-2-enyl)-1,2-naphthoquinone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H14O4/c1-8(2)6-7-10-13(17)12-9(14(18)15(10)19)4-3-5-11(12)16/h3-6,16-17H,7H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZDNKGOAYDCAKCR-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3
+
+> <PUBCHEM_EXACT_MASS>
+258.08920892
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+258.27
+
+> <PUBCHEM_SMILES>
+CC(=CCC1=C(C2=C(C=CC=C2O)C(=O)C1=O)O)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(=CCC1=C(C2=C(C=CC=C2O)C(=O)C1=O)O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+74.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+258.08920892
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+12  16  8
+14  17  8
+16  17  8
+6  12  8
+6  7  8
+7  14  8
+
+$$$$

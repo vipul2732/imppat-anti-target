@@ -1,0 +1,185 @@
+617233
+  -OEChem-09172610262D
+
+ 35 35  0     0  0  0  0  0  0999 V2000
+    2.8660    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540   -0.4174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554   -1.1077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -2.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    1.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -0.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7741    1.9631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1541    3.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8862   -0.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5062    1.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7101   -2.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -2.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9501   -2.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+617233
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+231
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAGgAAAAAADASAmAIyBoAABACAAiBCAAACCAAgIAAIiAAGiIgNJyKEMRqAMCIlwBUKqAfA4LwOIQABCAAIQABCAAIQABCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-allyl-2,3,4,5-tetramethoxy-benzene
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,2,3,4-tetramethoxy-5-prop-2-enylbenzene
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,2,3,4-tetramethoxy-5-prop-2-enylbenzene
+
+> <PUBCHEM_IUPAC_NAME>
+1,2,3,4-tetramethoxy-5-prop-2-enylbenzene
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,2,3,4-tetramethoxy-5-prop-2-enyl-benzene
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-allyl-2,3,4,5-tetramethoxy-benzene
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H18O4/c1-6-7-9-8-10(14-2)12(16-4)13(17-5)11(9)15-3/h6,8H,1,7H2,2-5H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+HRAXJWRHSUTMCS-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.9
+
+> <PUBCHEM_EXACT_MASS>
+238.12050905
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H18O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+238.28
+
+> <PUBCHEM_SMILES>
+COC1=C(C(=C(C(=C1)CC=C)OC)OC)OC
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+COC1=C(C(=C(C(=C1)CC=C)OC)OC)OC
+
+> <PUBCHEM_CACTVS_TPSA>
+36.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+238.12050905
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+5  6  8
+5  9  8
+6  7  8
+7  10  8
+9  11  8
+
+$$$$

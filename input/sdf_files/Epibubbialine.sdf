@@ -1,0 +1,178 @@
+11830997
+  -OEChem-09172610272D
+
+ 31 34  0     1  0  0  0  0  0999 V2000
+    4.6051   -1.3544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2888    1.7246    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0938   -2.3234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5298    1.1175    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    4.3959   -0.3825    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5298    0.1175    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3959    1.6175    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9959    0.2175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9959    1.0175    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.2619    0.1175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619    1.1175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5836   -0.1873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5836    1.4222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.6175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9989   -0.5496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5938   -1.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5298   -0.7325    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3959    2.4675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4088    0.4170    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5893    0.3971    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4231    0.7802    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8725    1.0098    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4739    1.7001    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0462   -0.4965    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8346   -0.7542    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8346    1.9891    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0462    1.7314    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5391    1.0322    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5391    0.2027    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6056   -0.4218    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4492    2.3234    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  6  0  0  0
+  1 16  1  0  0  0  0
+  9  2  1  1  0  0  0
+  2 31  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 17  1  1  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 18  1  6  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+11830997
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+405
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMAAAAAAAAAAAAAAAAAAAAWIAAAA8WIAAAAAAAFgAAAAAHgAACAAADHzhgAYACAMABgCIAiDSCAAAAAAgAAAACAAIAEgCFAIAoQAHUAAFgACYIQOw8L4OAAAAAAAAAAAQgAIQAAAgAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(1R,2S,7S,14R)-14-hydroxy-12-oxa-6-azatetracyclo[5.5.2.01,9.02,6]tetradec-9-en-11-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(1R,2S,7S,14R)-14-hydroxy-12-oxa-6-azatetracyclo[5.5.2.01,9.02,6]tetradec-9-en-11-one
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(1<I>R</I>,2<I>S</I>,7<I>S</I>,14<I>R</I>)-14-hydroxy-12-oxa-6-azatetracyclo[5.5.2.0<SUP>1,9</SUP>.0<SUP>2,6</SUP>]tetradec-9-en-11-one
+
+> <PUBCHEM_IUPAC_NAME>
+(1R,2S,7S,14R)-14-hydroxy-12-oxa-6-azatetracyclo[5.5.2.01,9.02,6]tetradec-9-en-11-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(1R,2S,7S,14R)-14-oxidanyl-12-oxa-6-azatetracyclo[5.5.2.01,9.02,6]tetradec-9-en-11-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(1R,2S,7S,14R)-14-hydroxy-12-oxa-6-azatetracyclo[5.5.2.01,9.02,6]tetradec-9-en-11-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H15NO3/c14-9-6-12-7(5-11(15)16-12)4-8(9)13-3-1-2-10(12)13/h5,8-10,14H,1-4,6H2/t8-,9+,10-,12+/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LXHGRIAYJAHNHR-MIZYBKAJSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-0.2
+
+> <PUBCHEM_EXACT_MASS>
+221.10519334
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H15NO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+221.25
+
+> <PUBCHEM_SMILES>
+C1C[C@H]2[C@@]34C[C@H]([C@@H](N2C1)CC3=CC(=O)O4)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1CC2C34CC(C(N2C1)CC3=CC(=O)O4)O
+
+> <PUBCHEM_CACTVS_TPSA>
+49.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+221.10519334
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  1  6
+9  2  5
+6  17  5
+7  18  6
+
+$$$$

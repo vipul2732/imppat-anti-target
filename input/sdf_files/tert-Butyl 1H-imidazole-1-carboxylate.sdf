@@ -1,0 +1,162 @@
+521262
+  -OEChem-09172609492D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+    3.0000   -0.5194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7321   -0.5194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    0.9806    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3660    2.5194    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -1.5194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.5194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -1.5194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -0.0194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0570    1.5684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6750    1.5684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    2.5194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3800   -2.5194    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -3.1394    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6200   -2.5194    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8994    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3800   -1.5194    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.1394    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -2.1394    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6200   -1.5194    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -0.8994    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4674    1.3768    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2647    1.3768    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0016    3.0210    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+521262
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+174
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgAAAAAADETBggQvmBcMFACoABAnfAAAgC0REqAJQAAYMACASAAACAAYAAAIBwIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+tert-butyl imidazole-1-carboxylate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-imidazolecarboxylic acid tert-butyl ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+<I>tert</I>-butyl imidazole-1-carboxylate
+
+> <PUBCHEM_IUPAC_NAME>
+tert-butyl imidazole-1-carboxylate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+tert-butyl imidazole-1-carboxylate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+imidazole-1-carboxylic acid tert-butyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H12N2O2/c1-8(2,3)12-7(11)10-5-4-9-6-10/h4-6H,1-3H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MTBKGWHHOBJMHJ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+1
+
+> <PUBCHEM_EXACT_MASS>
+168.089877630
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H12N2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+168.19
+
+> <PUBCHEM_SMILES>
+CC(C)(C)OC(=O)N1C=CN=C1
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(C)(C)OC(=O)N1C=CN=C1
+
+> <PUBCHEM_CACTVS_TPSA>
+44.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+168.089877630
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+3  10  8
+3  11  8
+4  11  8
+4  12  8
+
+$$$$

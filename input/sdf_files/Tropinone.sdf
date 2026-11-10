@@ -1,0 +1,158 @@
+446337
+  -OEChem-09172607382D
+
+ 23 24  0     1  0  0  0  0  0999 V2000
+    2.0000   -1.6229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5120    0.9741    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9898   -0.9745    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.2486   -0.0085    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.3887   -1.4833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6475   -0.5173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7687   -1.8401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2153   -0.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9397   -1.2809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0120    1.8401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7698   -1.7955    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4686    0.8125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1938   -2.0718    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9827   -1.6610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2415   -0.6951    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8424    0.0712    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3629   -2.3088    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1854   -2.2992    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2103    0.3003    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6010   -0.2359    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5489    2.1501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7020    2.3771    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4750    1.5301    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 11  1  1  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  1  6  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+446337
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+151
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByIAAAAAAAAAAAAAAAAAAAAWAAAAAsAAAABgAAAAAAAAAAHgAAAAAACCzBgAQCAAMAAAAIAIAQAAAAAAAAAAAAAAEIAAAAABoAgAAEAAAAAACAAAEYiACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-one
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(1<I>R</I>,5<I>S</I>)-8-methyl-8-azabicyclo[3.2.1]octan-3-one
+
+> <PUBCHEM_IUPAC_NAME>
+(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H13NO/c1-9-6-2-3-7(9)5-8(10)4-6/h6-7H,2-5H2,1H3/t6-,7+
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QQXLDOJGLXJCSE-KNVOCYPGSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.3
+
+> <PUBCHEM_EXACT_MASS>
+139.099714038
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H13NO
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+139.19
+
+> <PUBCHEM_SMILES>
+CN1[C@@H]2CC[C@H]1CC(=O)C2
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CN1C2CCC1CC(=O)C2
+
+> <PUBCHEM_CACTVS_TPSA>
+20.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+139.099714038
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+3  11  5
+4  12  6
+
+$$$$

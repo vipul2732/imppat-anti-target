@@ -1,0 +1,186 @@
+129629182
+  -OEChem-09172606582D
+
+ 36 35  0     1  0  0  0  0  0999 V2000
+    4.9641    1.1625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    0.6625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.7965    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320    0.1625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.7965    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7035    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2965    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2035    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7320   -0.7035    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.3301    0.7965    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.9641   -0.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.0695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.2965    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.2320   -1.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.2035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.7035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    1.1065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5841   -0.5695    0.0000 H   1  0  0  0  0  0  0  0  0  0  0  0
+    5.3815   -0.7816    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0718   -1.1801    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.6895    0.0000 H   1  0  0  0  0  0  0  0  0  0  0  0
+    5.6807   -1.2816    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4992   -1.2300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -0.0135    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9220   -2.1065    0.0000 H   1  0  0  0  0  0  0  0  0  0  0  0
+    4.7070   -1.9681    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7070   -1.1710    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2741    1.6994    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5612    0.9726    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.8235    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -1.0135    0.0000 H   1  0  0  0  0  0  0  0  0  0  0  0
+    6.5856   -0.5959    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9841   -1.2861    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    2.1065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6120    0.1625    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    0.4865    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  6  0  0  0
+  1 28  1  0  0  0  0
+  8  2  1  6  0  0  0
+  2 29  1  0  0  0  0
+ 10  3  1  6  0  0  0
+  3 34  1  0  0  0  0
+  9  4  1  1  0  0  0
+  4 35  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 36  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+M  ISO  4  18   2  21   2  25   2  31   2
+M  END
+> <PUBCHEM_COMPOUND_CID>
+129629182
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+270
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAADFSggAICAAAAAgAIAAgQgAIAAAAAAAAAAAFAAAABEBYAAAAAQAAFIAABAAHK7FTOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R,3S,4S,5R)-7-deuterio-2,3,4-tris(deuteriomethyl)-2,3,4,5,6-pentahydroxy-heptanal
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R,3S,4S,5R)-7-deuterio-2,3,4-tris(deuteriomethyl)-2,3,4,5,6-pentahydroxyheptanal
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>R</I>,3<I>S</I>,4<I>S</I>,5<I>R</I>)-7-deuterio-2,3,4-tris(deuteriomethyl)-2,3,4,5,6-pentahydroxyheptanal
+
+> <PUBCHEM_IUPAC_NAME>
+(2R,3S,4S,5R)-7-deuterio-2,3,4-tris(deuteriomethyl)-2,3,4,5,6-pentahydroxyheptanal
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R,3S,4S,5R)-7-deuterio-2,3,4-tris(deuteriomethyl)-2,3,4,5,6-pentakis(oxidanyl)heptanal
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R,3S,4S,5R)-7-deuterio-2,3,4-tris(deuteriomethyl)-2,3,4,5,6-pentahydroxy-enanthaldehyde
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H20O6/c1-6(12)7(13)9(3,15)10(4,16)8(2,14)5-11/h5-7,12-16H,1-4H3/t6?,7-,8+,9+,10-/m1/s1/i1D,2D,3D,4D
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DSAKBVMOWYDGMT-MYCDJTNXSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-2.4
+
+> <PUBCHEM_EXACT_MASS>
+240.15109534
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H20O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+240.29
+
+> <PUBCHEM_SMILES>
+[2H]CC([C@H]([C@@](C[2H])([C@@](C[2H])([C@](C[2H])(C=O)O)O)O)O)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(C(C(C)(C(C)(C(C)(C=O)O)O)O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+118
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+240.15109534
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+4
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+7  1  6
+8  2  6
+10  3  6
+9  4  5
+13  5  3
+
+$$$$

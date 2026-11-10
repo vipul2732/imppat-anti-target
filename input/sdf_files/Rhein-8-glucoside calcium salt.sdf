@@ -1,0 +1,224 @@
+54676854
+  -OEChem-09172610562D
+
+ 49 51  0     1  0  0  0  0  0999 V2000
+    4.3252   -3.9414    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+    7.8105    1.1278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4141    0.6578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3910    2.6577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6475    3.6376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0670    2.1077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338    0.6032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6822   -3.4314    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.9338   -3.3968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1854   -3.4314    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5357   -0.8693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4075    0.6273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6822    0.6378    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.5424    1.1478    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.5308    2.1477    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.6591    2.6377    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.7989    2.1277    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.6938   -0.3621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9272    2.6176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7998   -0.8968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5998   -0.8760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7998   -1.8968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338   -0.3968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5998   -1.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0678   -0.8968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6938   -2.4315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338   -2.3968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0678   -1.8968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1738   -0.3621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1738   -2.4315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2678   -0.8760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2678   -1.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4037   -0.3726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9511    0.2043    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5496    0.5278    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5237    2.7677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1186    2.9414    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2656    1.8115    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3202    3.0972    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5232    3.0880    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1356   -0.5639    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9475    0.9740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3839    3.2777    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1070    3.9414    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1356   -2.2297    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5265    2.4114    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1810    0.2578    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.2297    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5572    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 13  1  0  0  0  0
+  2 17  1  0  0  0  0
+ 14  3  1  1  0  0  0
+  3 42  1  0  0  0  0
+ 15  4  1  6  0  0  0
+  4 43  1  0  0  0  0
+ 16  5  1  1  0  0  0
+  5 44  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 46  1  0  0  0  0
+  7 23  2  0  0  0  0
+  8 26  1  0  0  0  0
+  9 27  2  0  0  0  0
+ 10 30  1  0  0  0  0
+ 11 33  1  0  0  0  0
+ 11 49  1  0  0  0  0
+ 12 33  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 34  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 36  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 37  1  0  0  0  0
+ 17 19  1  6  0  0  0
+ 17 38  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 19 40  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 21 41  1  0  0  0  0
+ 22 26  2  0  0  0  0
+ 22 27  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 45  1  0  0  0  0
+ 25 28  2  0  0  0  0
+ 25 29  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 30  1  0  0  0  0
+ 29 31  2  0  0  0  0
+ 29 47  1  0  0  0  0
+ 30 32  2  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 33  1  0  0  0  0
+ 32 48  1  0  0  0  0
+M  CHG  3   1   2   8  -1  10  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+54676854
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+771
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+11
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB4PAAAAAgAAAAAAAAAAAAAAAAAAAA0YMEAAAAAAADBQAAAGgAACAAADBSgmAIwDoAABgCIAqDSCAACAAAkIAAIiAEGCMgJNjaANRqCcUAl4BELuYfL7vzu4AADAAAYAADAAAYAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+calcium 3-carboxy-9,10-dioxo-5-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydropyran-2-yl]anthracene-1,8-diolate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+calcium 3-carboxy-9,10-dioxo-5-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)-2-oxanyl]anthracene-1,8-diolate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+calcium 3-carboxy-9,10-dioxo-5-[(2<I>S</I>,3<I>R</I>,4<I>R</I>,5<I>S</I>,6<I>R</I>)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]anthracene-1,8-diolate
+
+> <PUBCHEM_IUPAC_NAME>
+calcium 3-carboxy-9,10-dioxo-5-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]anthracene-1,8-diolate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+calcium 3-carboxy-5-[(2S,3R,4R,5S,6R)-6-(hydroxymethyl)-3,4,5-tris(oxidanyl)oxan-2-yl]-9,10-bis(oxidanylidene)anthracene-1,8-diolate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+calcium 3-carboxy-9,10-diketo-5-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-methylol-tetrahydropyran-2-yl]anthracene-1,8-diolate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C21H18O11.Ca/c22-5-11-16(26)18(28)19(29)20(32-11)7-1-2-9(23)14-13(7)15(25)8-3-6(21(30)31)4-10(24)12(8)17(14)27;/h1-4,11,16,18-20,22-24,26,28-29H,5H2,(H,30,31);/q;+2/p-2/t11-,16-,18+,19-,20+;/m1./s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XXVBCAMVOFYHJP-WJGQHNSASA-L
+
+> <PUBCHEM_EXACT_MASS>
+484.0318522
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C21H16CaO11
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+484.4
+
+> <PUBCHEM_SMILES>
+C1=CC(=C2C(=C1[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C(=O)C4=C(C2=O)C(=CC(=C4)C(=O)O)[O-])[O-].[Ca+2]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1=CC(=C2C(=C1C3C(C(C(C(O3)CO)O)O)O)C(=O)C4=C(C2=O)C(=CC(=C4)C(=O)O)[O-])[O-].[Ca+2]
+
+> <PUBCHEM_CACTVS_TPSA>
+208
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+484.0318522
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+33
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+5
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+13  34  5
+17  19  6
+18  20  8
+18  21  8
+20  22  8
+21  24  8
+22  26  8
+24  26  8
+25  28  8
+25  29  8
+28  30  8
+29  31  8
+14  3  5
+30  32  8
+31  32  8
+15  4  6
+16  5  5
+
+$$$$

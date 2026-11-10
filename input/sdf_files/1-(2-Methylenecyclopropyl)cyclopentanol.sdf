@@ -1,0 +1,159 @@
+572961
+  -OEChem-09172610142D
+
+ 24 25  0     1  0  0  0  0  0999 V2000
+    2.6166    0.6767    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2044   -0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7922    0.6767    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.8967    1.6712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3954   -0.7201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0134   -0.7201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7057    1.0834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7044   -1.6712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7044   -1.6712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7002    0.9789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2134    0.8989    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1685    2.2284    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3007    1.8421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0854   -0.1832    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8290   -0.9723    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5798   -0.9723    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3234   -0.1832    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0979   -1.8001    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7692   -2.2878    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6396   -2.2878    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3108   -1.8001    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.6119    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9524    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0647    1.4805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+572961
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+166
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwIAAAAAAAAAAAAAAAGAAAAYAAAAAAAAAAAAAAAAAAAAAAGgAACAAADUSAgAAAAAAAAgCAAgBCAAAAAAAgAAAAAAAAAAgAAAIAAQAAQAAEwAAAAAGAgMAOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-(2-methylenecyclopropyl)cyclopentanol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-(2-methylenecyclopropyl)-1-cyclopentanol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-(2-methylidenecyclopropyl)cyclopentan-1-ol
+
+> <PUBCHEM_IUPAC_NAME>
+1-(2-methylidenecyclopropyl)cyclopentan-1-ol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-(2-methylidenecyclopropyl)cyclopentan-1-ol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-(2-methylenecyclopropyl)cyclopentanol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H14O/c1-7-6-8(7)9(10)4-2-3-5-9/h8,10H,1-6H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YIJFUFFHKLPQEG-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.2
+
+> <PUBCHEM_EXACT_MASS>
+138.104465066
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H14O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+138.21
+
+> <PUBCHEM_SMILES>
+C=C1CC1C2(CCCC2)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C=C1CC1C2(CCCC2)O
+
+> <PUBCHEM_CACTVS_TPSA>
+20.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+138.104465066
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+3  2  3
+
+$$$$

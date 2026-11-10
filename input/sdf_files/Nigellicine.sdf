@@ -1,0 +1,184 @@
+11402337
+  -OEChem-09172610152D
+
+ 32 34  0     0  0  0  0  0  0999 V2000
+    2.7493    0.9693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7378    1.8703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0057    1.8703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3717   -1.1686    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6808   -0.2175    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0567   -1.9533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    0.0148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0772   -1.7446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3991   -0.7539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3717   -1.1686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8717    0.3703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0627   -0.2175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6868   -1.9533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0473    0.0148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6663   -1.7446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8717    1.3703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3444   -0.7539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.4903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5267   -2.2750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2830   -2.5305    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2186    0.3487    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4565    0.5866    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0957   -2.3643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6910   -1.8324    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9473   -1.0436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7783   -0.2634    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8852   -2.5407    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7384   -0.6227    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5376   -2.0772    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5869   -2.9526    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4623   -2.9034    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7378    2.4903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0  0  0  0
+  2 16  1  0  0  0  0
+  2 32  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+11402337
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+542
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMAAAAAAAAAAAAAAAAAAAAQAAAAAsQAAAAAAAAEAAAAAAHgAICAAADAzBgAQCCAIAAgCIAqTSSACAAAAgAgAQCAGIAEgKBAgAgSAEEAAAgACYkUIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-methyl-1-oxo-6,7,8,9-tetrahydropyridazino[1,2-a]indazole-11-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-methyl-1-oxo-6,7,8,9-tetrahydropyridazino[1,2-a]indazole-11-carboxylic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3-methyl-1-oxo-6,7,8,9-tetrahydropyridazino[1,2-a]indazole-11-carboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+3-methyl-1-oxo-6,7,8,9-tetrahydropyridazino[1,2-a]indazole-11-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-methyl-1-oxidanylidene-6,7,8,9-tetrahydropyridazino[1,2-a]indazole-11-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-keto-3-methyl-6,7,8,9-tetrahydropyridazin[1,2-a]indazole-11-carboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H14N2O3/c1-8-6-9-11(10(16)7-8)12(13(17)18)15-5-3-2-4-14(9)15/h6-7H,2-5H2,1H3,(H,17,18)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FEJTUHSIRAJLOJ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.4
+
+> <PUBCHEM_EXACT_MASS>
+246.10044231
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H14N2O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+246.26
+
+> <PUBCHEM_SMILES>
+CC1=CC(=O)C2=C(N3CCCCN3C2=C1)C(=O)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1=CC(=O)C2=C(N3CCCCN3C2=C1)C(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+60.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+246.10044231
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+11  12  8
+12  14  8
+13  15  8
+14  17  8
+15  17  8
+4  10  8
+4  5  8
+5  11  8
+
+$$$$

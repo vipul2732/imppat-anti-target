@@ -1,0 +1,16 @@
+auc,descriptors
+0.8041954706129167,all
+0.6993471592275334,bertz + basic_n + spiro
+0.6970584198060169,basic_n + balaban + spiro
+0.6953805625567682,bertz + basic_n + balaban
+0.695103110096057,basic_n + logp + balaban
+0.6944669164712329,bertz + basic_n
+0.6913618827047818,basic_n + mr + rotatable
+0.6896801313859091,bertz + basic_n + logp
+0.6866135515569951,basic_n + chi0v + rotatable
+0.6862027272116612,basic_n + balaban
+0.6856283519421186,bertz + basic_n + rotatable
+0.6843997729757408,basic_n + mr + spiro
+0.6822064382600128,basic_n + balaban + mr
+0.6820720928579842,basic_n + mr
+0.680262810758925,basic_n + balaban + chi0v

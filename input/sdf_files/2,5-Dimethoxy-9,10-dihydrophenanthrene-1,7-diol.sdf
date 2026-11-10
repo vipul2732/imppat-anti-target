@@ -1,0 +1,195 @@
+14104268
+  -OEChem-09172609082D
+
+ 36 38  0     0  0  0  0  0  0999 V2000
+    3.7817    1.0841    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1663   -0.4536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1821    1.5946    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.9746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961   -1.4505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301   -1.9505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961   -0.4505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -1.4505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -0.4505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3062    0.0564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702    0.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702   -1.9851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5141    1.0910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3142    1.0980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -1.4713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -0.4297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4121    1.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9215    1.5941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1860    2.5946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6082   -2.0331    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0067   -1.3428    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1316   -2.4254    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9286   -2.4254    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7773   -2.6051    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9736    1.3948    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3284   -0.1176    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4097    2.2388    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7068   -0.1498    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0024   -2.5946    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2377    2.1274    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3882    1.9103    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6054    1.0608    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8060    2.5922    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1884    3.2146    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5660    2.5970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 20 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+14104268
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+334
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB4OAAAAAAAAAAAAAAAAAAAAAAAAAAwYMAAAAAAAADBQAAAGgAACAAADASAmAIyBoAABgCAAiBCAAACCAAgIAAIiAAGiIgNJyKGMRqAcCMlwBULuAeA4PwOoAABCAAYQADAAAYQADCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,5-dimethoxy-9,10-dihydrophenanthrene-1,7-diol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,5-dimethoxy-9,10-dihydrophenanthrene-1,7-diol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2,5-dimethoxy-9,10-dihydrophenanthrene-1,7-diol
+
+> <PUBCHEM_IUPAC_NAME>
+2,5-dimethoxy-9,10-dihydrophenanthrene-1,7-diol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,5-dimethoxy-9,10-dihydrophenanthrene-1,7-diol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,5-dimethoxy-9,10-dihydrophenanthrene-1,7-diol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H16O4/c1-19-13-6-5-11-12(16(13)18)4-3-9-7-10(17)8-14(20-2)15(9)11/h5-8,17-18H,3-4H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YSSFIGREEVEYNI-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+272.10485899
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H16O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+272.29
+
+> <PUBCHEM_SMILES>
+COC1=C(C2=C(C=C1)C3=C(CC2)C=C(C=C3OC)O)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+COC1=C(C2=C(C=C1)C3=C(CC2)C=C(C=C3OC)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+58.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+272.10485899
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+11  15  8
+12  17  8
+13  16  8
+14  18  8
+15  18  8
+16  17  8
+7  10  8
+7  11  8
+8  13  8
+8  9  8
+9  12  8
+
+$$$$

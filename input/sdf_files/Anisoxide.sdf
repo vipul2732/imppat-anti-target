@@ -1,0 +1,183 @@
+131751051
+  -OEChem-09172609142D
+
+ 33 34  0     1  0  0  0  0  0999 V2000
+    6.9473   -1.1824    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5309   -0.3776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9473    0.4271    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.0010    0.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.8776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3399   -0.9654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3399    0.2102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2579    1.3776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.6224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.3776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.8776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.6224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.8776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5098    0.8665    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9755   -1.4670    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8415   -1.3298    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7043   -0.4638    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7043   -0.2914    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8415    0.5746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9755    0.7117    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8472    1.1850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4505    1.9670    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6686    1.5702    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.2424    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.9976    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.2424    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.4324    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9169   -0.8776    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.4976    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1569   -0.8776    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+131751051
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+254
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAEgBAAAAGgAAAAAADUSAmAAyBoAABACAAiBCAAACCAAgIAAIiAAGCIgMJiKEMRqCOCCkwBEIqAeAwPAOoAACAAAIAABAAAQAABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,2,3-trimethyl-5-[(Z)-prop-1-enyl]-3H-benzofuran
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,2,3-trimethyl-5-[(Z)-prop-1-enyl]-3H-benzofuran
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2,2,3-trimethyl-5-[(<I>Z</I>)-prop-1-enyl]-3<I>H</I>-1-benzofuran
+
+> <PUBCHEM_IUPAC_NAME>
+2,2,3-trimethyl-5-[(Z)-prop-1-enyl]-3H-1-benzofuran
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,2,3-trimethyl-5-[(Z)-prop-1-enyl]-3H-1-benzofuran
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,2,3-trimethyl-5-[(Z)-prop-1-enyl]coumaran
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H18O/c1-5-6-11-7-8-13-12(9-11)10(2)14(3,4)15-13/h5-10H,1-4H3/b6-5-
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YXEPEHFXXORWGP-WAYWQWQTSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.9
+
+> <PUBCHEM_EXACT_MASS>
+202.135765193
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H18O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+202.29
+
+> <PUBCHEM_SMILES>
+C/C=C\C1=CC2=C(C=C1)OC(C2C)(C)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC=CC1=CC2=C(C=C1)OC(C2C)(C)C
+
+> <PUBCHEM_CACTVS_TPSA>
+9.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+202.135765193
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+11  12  8
+3  8  3
+4  5  8
+4  9  8
+5  10  8
+9  11  8
+
+$$$$

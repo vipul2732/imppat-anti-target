@@ -1,0 +1,189 @@
+14166403
+  -OEChem-09172610092D
+
+ 34 35  0     1  0  0  0  0  0999 V2000
+    7.5673    2.6283    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9244    0.9335    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -2.2452    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9674    0.5210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889    0.3148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2781    1.4715    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6783   -0.6357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.9404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.9404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -1.4404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6103    2.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2566    1.6778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.4404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.4404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.9404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.9404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5458    2.8345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   -0.0986    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5812    0.4337    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9684    0.9345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3751    0.4022    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6714    1.3437    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8819   -1.4404    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0717    2.6299    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1962    2.6773    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1488    1.8018    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8709   -2.8345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.1796    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.0604    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.6304    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.2504    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6736    2.2278    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1524    2.9624    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4179    3.4412    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 11  1  1  0  0  0
+  6 12  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+14166403
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+267
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMAAAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAFgB8AAAHgAQAAAADQjBngY+yPLJlACoAzT3TACCgCAxAiAI2aE4ZJgIIPLAkZGEIAhkkADIyAeYyPCOgAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl (2R)-4-(1H-indol-3-yl)-2-methyl-butanoate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R)-4-(1H-indol-3-yl)-2-methylbutanoic acid methyl ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl (2<I>R</I>)-4-(1<I>H</I>-indol-3-yl)-2-methylbutanoate
+
+> <PUBCHEM_IUPAC_NAME>
+methyl (2R)-4-(1H-indol-3-yl)-2-methylbutanoate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl (2R)-4-(1H-indol-3-yl)-2-methyl-butanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R)-4-(1H-indol-3-yl)-2-methyl-butyric acid methyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H17NO2/c1-10(14(16)17-2)7-8-11-9-15-13-6-4-3-5-12(11)13/h3-6,9-10,15H,7-8H2,1-2H3/t10-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OSINFMIOMWBGDS-SNVBAGLBSA-N
+
+> <PUBCHEM_XLOGP3>
+3.2
+
+> <PUBCHEM_EXACT_MASS>
+231.125928785
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H17NO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+231.29
+
+> <PUBCHEM_SMILES>
+C[C@H](CCC1=CNC2=CC=CC=C21)C(=O)OC
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(CCC1=CNC2=CC=CC=C21)C(=O)OC
+
+> <PUBCHEM_CACTVS_TPSA>
+42.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+231.125928785
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+13  15  8
+14  16  8
+15  16  8
+3  10  8
+3  9  8
+6  11  5
+7  10  8
+7  8  8
+8  13  8
+8  9  8
+9  14  8
+
+$$$$

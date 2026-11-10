@@ -1,0 +1,144 @@
+21972762
+  -OEChem-09172610062D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    2.0000   -0.1410    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281   -1.1191    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -0.4197    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.1681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2601    1.1191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5202   -0.1410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511    0.1681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2601    1.1191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2633    0.5282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -1.0397    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6245    1.6207    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8956    1.6207    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6782    0.0674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7240    0.9430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8484    0.9889    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+21972762
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+126
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBiIAAEAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgIQAAAACA6BliAygJLJkACoAaRyRACCgCAnByAImSGwZtgIIPLBlrGEAQhgkADIyYcYAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-(5-chloro-1H-pyrrol-2-yl)ethanone
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-(5-chloro-1H-pyrrol-2-yl)ethanone
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-(5-chloro-1<I>H</I>-pyrrol-2-yl)ethanone
+
+> <PUBCHEM_IUPAC_NAME>
+1-(5-chloro-1H-pyrrol-2-yl)ethanone
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-(5-chloranyl-1H-pyrrol-2-yl)ethanone
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-(5-chloro-1H-pyrrol-2-yl)ethanone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H6ClNO/c1-4(9)5-2-3-6(7)8-5/h2-3,8H,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IFULTHBJBKOHFB-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.7
+
+> <PUBCHEM_EXACT_MASS>
+143.0137915
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H6ClNO
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+143.57
+
+> <PUBCHEM_SMILES>
+CC(=O)C1=CC=C(N1)Cl
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(=O)C1=CC=C(N1)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+32.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+143.0137915
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+3  4  8
+3  7  8
+4  5  8
+5  8  8
+7  8  8
+
+$$$$

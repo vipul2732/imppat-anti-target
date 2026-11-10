@@ -1,0 +1,189 @@
+154496776
+  -OEChem-09172608002D
+
+ 36 38  0     0  0  0  0  0  0999 V2000
+    2.9757   -0.8238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -3.2248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2264    2.6358    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -0.2248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9071    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -0.7248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2321   -0.7248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2891    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    1.3141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.3141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -1.7248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2321   -1.7248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -2.2248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2737    0.1308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9131    2.0988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5707    0.8995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8926    1.8901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2171   -0.1739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4735    0.6152    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5747   -0.8324    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1762   -0.1421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0200   -0.1421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6215   -0.8324    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2046    1.4430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5333    1.9307    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1762   -2.3074    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5747   -1.6171    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6215   -1.6171    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0200   -2.3074    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1115    2.6862    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9648    0.7682    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8641   -0.4381    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3951   -1.1789    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1359   -1.6479    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4202    3.2248    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 17  1  0  0  0  0
+  3 36  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 18 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+154496776
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+329
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAAYAAAAAwYAAAAAAAAGABAAAAGgAACAAADgSAmAIyBoAABgCIAqBSAAACCAAgIAAAiAEGCIgMJzKGMRqAcCAlwBUIuAeI6PyPoAABCAAYAABAAAIQADAAAQAACAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5'-hydroxy-7'-methoxy-spiro[cyclohexane-4,1'-indane]-1-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+6-hydroxy-4-methoxy-1'-spiro[1,2-dihydroindene-3,4'-cyclohexane]one
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+6-hydroxy-4-methoxyspiro[1,2-dihydroindene-3,4&apos;-cyclohexane]-1&apos;-one
+
+> <PUBCHEM_IUPAC_NAME>
+6-hydroxy-4-methoxyspiro[1,2-dihydroindene-3,4'-cyclohexane]-1'-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-methoxy-6-oxidanyl-spiro[1,2-dihydroindene-3,4'-cyclohexane]-1'-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5'-hydroxy-7'-methoxy-spiro[cyclohexane-4,1'-indane]-1-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H18O3/c1-18-13-9-12(17)8-10-2-5-15(14(10)13)6-3-11(16)4-7-15/h8-9,17H,2-7H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZKJMXTKGSQHXEC-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.3
+
+> <PUBCHEM_EXACT_MASS>
+246.125594432
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H18O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+246.30
+
+> <PUBCHEM_SMILES>
+COC1=CC(=CC2=C1C3(CCC(=O)CC3)CC2)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+COC1=CC(=CC2=C1C3(CCC(=O)CC3)CC2)O
+
+> <PUBCHEM_CACTVS_TPSA>
+46.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+246.125594432
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  15  8
+14  16  8
+15  17  8
+16  17  8
+8  10  8
+8  14  8
+
+$$$$

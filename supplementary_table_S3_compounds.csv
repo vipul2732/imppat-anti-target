@@ -1,0 +1,79 @@
+anti_target,phytochemical_name,imppat_id,n_plants_reporting_compound,retained_for_plant_test,in_table_plant,plant_parts,consensus_similarity,neighbor_id,neighbor_potency,neighbor_potency_detail,neighbor_ci
+CYP,"(5R,5aS,8aR,9R)-5-hydroxy-9-(3,4,5-trimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-isobenzofuro[5,6-f][1,3]benzodioxol-8-one",IMPHY011850,1,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: root,1.0,OCNT-0497934,5.74,CYP2C9:5.74; CYP3A4:5.49,CYP2C9:5.62-5.85; CYP3A4:5.44-5.55
+CYP,4'-Demethylepipodophyllotoxin,IMPHY003965,1,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: root,0.84,OCNT-0497934,5.74,CYP2C9:5.74; CYP3A4:5.49,CYP2C9:5.62-5.85; CYP3A4:5.44-5.55
+CYP,4'-Demethylpodophyllotoxin,IMPHY004016,2,True,Dysosma aurantiocaulis; Sinopodophyllum hexandrum,Dysosma aurantiocaulis:  | Sinopodophyllum hexandrum: leaf; plant cells/culture; root; stem,0.84,OCNT-0497934,5.74,CYP2C9:5.74; CYP3A4:5.49,CYP2C9:5.62-5.85; CYP3A4:5.44-5.55
+CYP,Amiloxate,IMPHY016696,1,True,,,1.0,OCNT-2328702,5.31,CYP1A2:5.31,CYP1A2:5.23-5.39
+CYP,Berberine chloride,IMPHY009429,5,True,,,1.0,OCNT-0022237,5.06,CYP2D6:5.06,CYP2D6:4.92-5.16
+CYP,Curcumin,IMPHY007574,12,True,,,1.0,OCNT-0497724,5.64,CYP2C9:5.64; CYP3A4:5.28,CYP2C9:5.51-5.76; CYP3A4:5.22-5.34
+CYP,Epiisopodophyllotoxin,IMPHY011860,1,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: root,1.0,OCNT-0497934,5.74,CYP2C9:5.74; CYP3A4:5.49,CYP2C9:5.62-5.85; CYP3A4:5.44-5.55
+CYP,Epipodophyllotoxin,IMPHY011849,1,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: root,1.0,OCNT-0497934,5.74,CYP2C9:5.74; CYP3A4:5.49,CYP2C9:5.62-5.85; CYP3A4:5.44-5.55
+CYP,Methoxsalen,IMPHY003037,48,False,,,1.0,OCNT-0483505,6.69,CYP1A2:6.69; CYP2D6:4.50,CYP1A2:6.61-6.78; CYP2D6:4.38-4.65
+CYP,Phytonadione,IMPHY012771,3,True,,,1.0,OCNT-2328553,5.07,CYP1A2:5.07,CYP1A2:4.85-5.24
+CYP,Picropodophyllin,IMPHY011847,3,True,Dysosma aurantiocaulis; Sinopodophyllum hexandrum,Dysosma aurantiocaulis:  | Sinopodophyllum hexandrum: plant exudate; root,1.0,OCNT-0497934,5.74,CYP2C9:5.74; CYP3A4:5.49,CYP2C9:5.62-5.85; CYP3A4:5.44-5.55
+CYP,Podofilox,IMPHY011846,6,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: leaf; plant cells/culture; plant exudate; rhizome; root; seed; stem,1.0,OCNT-0497934,5.74,CYP2C9:5.74; CYP3A4:5.49,CYP2C9:5.62-5.85; CYP3A4:5.44-5.55
+CYP,Quercetin,IMPHY004619,602,False,Dysosma aurantiocaulis; Sinopodophyllum hexandrum,Dysosma aurantiocaulis: rhizome; root | Sinopodophyllum hexandrum: plant exudate; rhizome; root; stem,1.0,OCNT-0436875,5.25,CYP1A2:5.25,CYP1A2:5.15-5.33
+CYP,Quinacrine,IMPHY013736,1,True,,,1.0,OCNT-0476550,6.34,CYP2C9:4.43; CYP2D6:6.34; CYP3A4:5.01,CYP2C9:4.21-4.74; CYP2D6:6.21-6.47; CYP3A4:4.95-5.08
+CYP,Serotonin,IMPHY004653,27,False,,,1.0,OCNT-0021943,5.05,CYP1A2:5.05,CYP1A2:4.95-5.14
+CYP,Sikkimotoxin,IMPHY004106,1,True,Dysosma aurantiocaulis,Dysosma aurantiocaulis: rhizome; root,0.833,OCNT-0497934,5.74,CYP2C9:5.74; CYP3A4:5.49,CYP2C9:5.62-5.85; CYP3A4:5.44-5.55
+PXR,Cytisine,IMPHY001153,6,True,,,1.0,OCNT-0483494,6.09,6.09,5.92-6.26
+PXR,Deacetylvinblastine,IMPHY010608,1,True,Catharanthus roseus,Catharanthus roseus: leaf; whole plant,0.881,OCNT-2328557,5.64,5.64,5.56-5.72
+PXR,Dipyridamole,IMPHY003510,1,True,,,1.0,OCNT-0498182,5.33,5.33,5.04-5.62
+PXR,Dtxsid20939464,IMPHY005487,1,True,Catharanthus roseus,Catharanthus roseus: flower; leaf; plant cells/culture; whole plant,0.811,OCNT-2328557,5.64,5.64,5.56-5.72
+PXR,Isoleurosine,IMPHY003621,1,True,Catharanthus roseus,Catharanthus roseus: leaf; whole plant,0.848,OCNT-2328557,5.64,5.64,5.56-5.72
+PXR,Leurosine,IMPHY000998,3,True,Catharanthus roseus,Catharanthus roseus: aerial part; leaf; plant cells/culture; root; whole plant,0.807,OCNT-2328557,5.64,5.64,5.56-5.72
+PXR,"N-beta-Hydroxyethyl-vds, sulfate salt",IMPHY003446,1,True,Catharanthus roseus,Catharanthus roseus: ,0.8,OCNT-2328557,5.64,5.64,5.56-5.72
+PXR,Roseamine,IMPHY003632,1,True,Catharanthus roseus,Catharanthus roseus: whole plant,0.848,OCNT-2328557,5.64,5.64,5.56-5.72
+PXR,Vinblastine,IMPHY015109,1,True,Catharanthus roseus,Catharanthus roseus: flower; fruit; leaf; plant cells/culture; root; stem,1.0,OCNT-2328557,5.64,5.64,5.56-5.72
+PXR,Vincristine,IMPHY006298,4,True,Catharanthus roseus,Catharanthus roseus: flower; leaf; plant cells/culture; root; whole plant,0.883,OCNT-2328557,5.64,5.64,5.56-5.72
+PXR,Vinrosidine,IMPHY015112,1,True,Catharanthus roseus,Catharanthus roseus: ,1.0,OCNT-2328557,5.64,5.64,5.56-5.72
+hERG,(+)-Catechin gallate,IMPHY014856,1,True,,,0.854,CHEMBL311663,5.22,5.22,
+hERG,(+)-epicatechin-3-O-gallate,IMPHY011865,3,True,Camellia sinensis,Camellia sinensis: ,0.854,CHEMBL311663,5.22,5.22,
+hERG,(-)-Catechin gallate,IMPHY011864,1,True,,,0.854,CHEMBL311663,5.22,5.22,
+hERG,(-)-Epicatechin gallate,IMPHY011874,6,True,Camellia sinensis,Camellia sinensis: ,0.854,CHEMBL311663,5.22,5.22,
+hERG,(-)-Gallocatechin gallate,IMPHY011671,1,True,Camellia sinensis,Camellia sinensis: ,1.0,CHEMBL311663,5.22,5.22,
+hERG,"(5R,5aS,8aR,9R)-5-hydroxy-9-(3,4,5-trimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-isobenzofuro[5,6-f][1,3]benzodioxol-8-one",IMPHY011850,1,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: root,1.0,CHEMBL273648,6.3,6.3,
+hERG,"1-(4-Methanesulfonamidophenoxy)-3-(N-methyl-3,4-dichlorophenylethylamino)-2-propanol",IMPHY007824,1,True,,,1.0,CHEMBL523167,6.43,6.43,
+hERG,1-Deoxynojirimycin,IMPHY003133,2,True,,,1.0,CHEMBL1489392,5.25,5.25,
+hERG,4'-Demethylepipodophyllotoxin,IMPHY003965,1,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: root,0.84,CHEMBL273648,6.3,6.3,
+hERG,4'-Demethylpodophyllotoxin,IMPHY004016,2,True,Dysosma aurantiocaulis; Sinopodophyllum hexandrum,Dysosma aurantiocaulis:  | Sinopodophyllum hexandrum: leaf; plant cells/culture; root; stem,0.84,CHEMBL273648,6.3,6.3,
+hERG,Adenosine,IMPHY012197,8,True,,,1.0,CHEMBL1236872,7.65,7.65,
+hERG,Ajmaline,IMPHY012468,3,True,Rauvolfia serpentina; Rauvolfia tetraphylla,Rauvolfia serpentina: leaf; plant cells/culture; root; stem | Rauvolfia tetraphylla: root,1.0,CHEMBL2105617,5.98,5.98,
+hERG,Apovincamine,IMPHY006694,1,True,,,0.846,CHEMBL71752,6.85,6.85,
+hERG,Berbamunine,IMPHY003410,1,True,,,0.908,CHEMBL2216904,5.02,5.02,
+hERG,Caffeic acid,IMPHY011933,260,False,Camellia sinensis,Camellia sinensis: leaf,1.0,CHEMBL145,5.6,5.6,
+hERG,Caffeine,IMPHY002965,23,False,Camellia sinensis,Camellia sinensis: leaf; plant cells/culture; seed,1.0,CHEMBL113,5.31,5.31,
+hERG,Cephaeline,IMPHY003663,2,True,Alangium salviifolium; Carapichea ipecacuanha,Alangium salviifolium: bark; fruit; root; seed; stem | Carapichea ipecacuanha: root,0.839,CHEMBL493439,5.0,5.0,
+hERG,Cocaine,IMPHY001394,4,True,,,1.0,CHEMBL370805,5.24,5.24,
+hERG,Cotinine,IMPHY007075,3,True,,,1.0,CHEMBL664,5.5,5.5,
+hERG,Cumene,IMPHY007037,10,True,,,1.0,CHEMBL1398949,5.8,5.8,
+hERG,Curcumin,IMPHY007574,12,True,,,1.0,CHEMBL140,5.5,5.5,
+hERG,Daurisoline,IMPHY004575,1,True,,,1.0,CHEMBL2216904,5.02,5.02,
+hERG,Deserpidine,IMPHY007089,2,True,Rauvolfia serpentina; Rauvolfia tetraphylla,Rauvolfia serpentina: leaf; root; stem | Rauvolfia tetraphylla: ,0.844,CHEMBL772,5.3,5.3,
+hERG,"Emetan-6'-ol, 7',10,11-trimethoxy-, (1'beta)-",IMPHY003652,1,True,Alangium salviifolium,Alangium salviifolium: fruit; seed,0.839,CHEMBL493439,5.0,5.0,
+hERG,Emetine,IMPHY000198,6,True,Alangium salviifolium; Carapichea ipecacuanha,Alangium salviifolium: bark; root; seed; stem; whole plant | Carapichea ipecacuanha: root,1.0,CHEMBL493439,5.0,5.0,
+hERG,Epiafzelechin 3-O-gallate,IMPHY000780,1,True,Camellia sinensis,Camellia sinensis: ,0.846,CHEMBL311663,5.22,5.22,
+hERG,Epigallocatechin gallate,IMPHY011670,27,False,Camellia sinensis,Camellia sinensis: leaf,1.0,CHEMBL311663,5.22,5.22,
+hERG,Epiisopodophyllotoxin,IMPHY011860,1,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: root,1.0,CHEMBL273648,6.3,6.3,
+hERG,Epipodophyllotoxin,IMPHY011849,1,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: root,1.0,CHEMBL273648,6.3,6.3,
+hERG,Epiquinine,IMPHY011848,1,True,Cinchona calisaya,Cinchona calisaya: ,1.0,CHEMBL1590884,5.45,5.45,
+hERG,Isoajmaline,IMPHY014939,1,True,Rauvolfia serpentina,Rauvolfia serpentina: leaf; root; stem,1.0,CHEMBL2105617,5.98,5.98,
+hERG,Isoliquiritigenin,IMPHY006489,17,True,,,1.0,CHEMBL129795,5.4,5.4,
+hERG,Kaempferol,IMPHY004388,404,False,Camellia sinensis; Cinchona calisaya; Sinopodophyllum hexandrum,Camellia sinensis: leaf | Cinchona calisaya: leaf | Sinopodophyllum hexandrum: plant exudate; root; stem,1.0,CHEMBL150,8.66,8.66,
+hERG,Lobeline,IMPHY002348,2,True,,,1.0,CHEMBL1257005,5.85,5.85,
+hERG,Morin,IMPHY005463,11,True,,,1.0,CHEMBL28626,5.5,5.5,
+hERG,Palaudine,IMPHY005097,1,True,,,0.8,CHEMBL19224,5.14,5.14,
+hERG,Papaverine,IMPHY000788,8,True,Rauvolfia serpentina,Rauvolfia serpentina: leaf; root; stem,1.0,CHEMBL19224,5.14,5.14,
+hERG,Phorbol 12-myristate 13-acetate,IMPHY002901,3,True,Croton tiglium,Croton tiglium: seed,1.0,CHEMBL2374058,6.95,6.95,
+hERG,"Phorbol acetate, caprate",IMPHY009371,1,True,Croton tiglium,Croton tiglium: seed,0.811,CHEMBL2374058,6.95,6.95,
+hERG,Phytonadione,IMPHY012771,3,True,,,1.0,vitamine_K,5.24,5.24,
+hERG,Picropodophyllin,IMPHY011847,3,True,Dysosma aurantiocaulis; Sinopodophyllum hexandrum,Dysosma aurantiocaulis:  | Sinopodophyllum hexandrum: plant exudate; root,1.0,CHEMBL273648,6.3,6.3,
+hERG,Podofilox,IMPHY011846,6,True,Sinopodophyllum hexandrum,Sinopodophyllum hexandrum: leaf; plant cells/culture; plant exudate; rhizome; root; seed; stem,1.0,CHEMBL273648,6.3,6.3,
+hERG,Pyrogallol,IMPHY000103,15,True,,,1.0,CHEMBL307145,5.55,5.55,
+hERG,Quinidine,IMPHY011689,5,True,Cinchona calisaya; Rauvolfia tetraphylla,Cinchona calisaya: bark | Rauvolfia tetraphylla: ,1.0,CHEMBL1590884,5.45,5.45,
+hERG,Quinine,IMPHY011837,14,True,Cinchona calisaya,Cinchona calisaya: bark; leaf; seed,1.0,CHEMBL1590884,5.45,5.45,
+hERG,Reserpine,IMPHY012049,8,True,Rauvolfia serpentina; Rauvolfia tetraphylla,Rauvolfia serpentina: leaf; plant cells/culture; root; stem | Rauvolfia tetraphylla: root,1.0,CHEMBL772,5.3,5.3,
+hERG,Sikkimotoxin,IMPHY004106,1,True,Dysosma aurantiocaulis,Dysosma aurantiocaulis: rhizome; root,0.833,CHEMBL273648,6.3,6.3,
+hERG,Thaligrisine,IMPHY000671,1,True,,,0.849,CHEMBL2216904,5.02,5.02,
+hERG,Triprolidine,IMPHY005575,2,True,,,1.0,CHEMBL1200450,5.2,5.2,
+hERG,Vinpocetine,IMPHY000807,1,True,,,1.0,CHEMBL71752,6.85,6.85,
+hERG,alpha-Hexylcinnamaldehyde,IMPHY016687,1,True,,,1.0,CHEMBL1449245,7.3,7.3,

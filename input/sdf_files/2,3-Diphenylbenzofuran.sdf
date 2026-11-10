@@ -1,0 +1,204 @@
+253613
+  -OEChem-09172608292D
+
+ 35 38  0     0  0  0  0  0  0999 V2000
+    4.6783   -2.1329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -0.5234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -0.8281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.8282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889    0.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.3281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9674    0.6333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3211    1.1714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.8282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7619   -2.1942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7619   -0.4621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2781    1.5839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6318    2.1219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7619   -2.1942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7619   -0.4621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6103    2.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2619   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.9482    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3815    0.1719    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7144    1.0436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.5181    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.1382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4519   -2.7311    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4519    0.0748    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8848    1.7117    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2177    2.5834    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0719   -2.7311    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0719    0.0748    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8029    2.9175    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8819   -1.3282    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 14  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 21 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+253613
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+327
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4IAAAAAAAAAAAAAAAAAAAASAAAAAwYMAAAAAAAEgB9AAAGgAAAAAADASAmAAwBsAABECIAqBSAAACCAAkIAAIiAEGCMgMJjKENRqCOSCkwBEIqYeIyPCOgAAAAAAIAAAAAAAAABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,3-diphenylbenzofuran
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,3-diphenylbenzofuran
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2,3-diphenyl-1-benzofuran
+
+> <PUBCHEM_IUPAC_NAME>
+2,3-diphenyl-1-benzofuran
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,3-diphenyl-1-benzofuran
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,3-diphenylbenzofuran
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C20H14O/c1-3-9-15(10-4-1)19-17-13-7-8-14-18(17)21-20(19)16-11-5-2-6-12-16/h1-14H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MPNFMCAOBNNFJF-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5.6
+
+> <PUBCHEM_EXACT_MASS>
+270.104465066
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C20H14O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+270.3
+
+> <PUBCHEM_SMILES>
+C1=CC=C(C=C1)C2=C(OC3=CC=CC=C32)C4=CC=CC=C4
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1=CC=C(C=C1)C2=C(OC3=CC=CC=C32)C4=CC=CC=C4
+
+> <PUBCHEM_CACTVS_TPSA>
+13.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+270.104465066
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  4  8
+1  5  8
+10  16  8
+11  17  8
+12  13  8
+14  18  8
+15  19  8
+16  20  8
+17  20  8
+18  21  8
+19  21  8
+2  3  8
+2  4  8
+3  5  8
+3  8  8
+5  9  8
+6  10  8
+6  11  8
+7  14  8
+7  15  8
+8  12  8
+9  13  8
+
+$$$$

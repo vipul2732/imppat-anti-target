@@ -1,0 +1,157 @@
+64048
+  -OEChem-09172611052D
+
+ 18 19  0     0  0  0  0  0  0999 V2000
+    4.6660    1.8100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981   -1.1900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -1.1900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    0.3100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000   -0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    0.8447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061   -1.2247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    1.4646    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132   -1.8446    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0690    0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    0.6429    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -1.0229    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+64048
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+227
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBzMAAAAAAAAAAAAAAAAAAAAAAAAAA8QAAAAAAAAACxAAAAHgAQAAAADAiBmAAxwILAAACIAiVSUACCAAAlAgAIiAEAZMiIIDrA1ZGEIYholSJIyecYiACOAAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1H-quinazoline-2,4-dione
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1H-quinazoline-2,4-dione
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1<I>H</I>-quinazoline-2,4-dione
+
+> <PUBCHEM_IUPAC_NAME>
+1H-quinazoline-2,4-dione
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1H-quinazoline-2,4-dione
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1H-quinazoline-2,4-quinone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H6N2O2/c11-7-5-3-1-2-4-6(5)9-8(12)10-7/h1-4H,(H2,9,10,11,12)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+SDQJTWBNWQABLE-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+0.8
+
+> <PUBCHEM_EXACT_MASS>
+162.042927438
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H6N2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+162.15
+
+> <PUBCHEM_SMILES>
+C1=CC=C2C(=C1)C(=O)NC(=O)N2
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1=CC=C2C(=C1)C(=O)NC(=O)N2
+
+> <PUBCHEM_CACTVS_TPSA>
+58.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+162.042927438
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+3  10  8
+3  6  8
+4  10  8
+4  7  8
+5  6  8
+5  7  8
+5  8  8
+6  9  8
+8  11  8
+9  12  8
+
+$$$$

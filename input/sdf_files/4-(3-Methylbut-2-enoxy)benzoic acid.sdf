@@ -1,0 +1,173 @@
+267137
+  -OEChem-09172608252D
+
+ 29 29  0     0  0  0  0  0  0999 V2000
+    4.5981   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    3.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    3.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -2.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.9400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -4.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.9400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200   -0.9774    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215   -1.6677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    0.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    1.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460   -4.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -4.6800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860   -4.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -2.0231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -3.0969    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    4.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+267137
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+233
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAGgAACAAADASgmAIyDoAABgCIAiDSCAACCAAkIAAIiAEGCMgMJjKENRqCeSCkwBEIuYeI7CzOIAAAAAAAAABAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-(3-methylbut-2-enoxy)benzoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-(3-methylbut-2-enoxy)benzoic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-(3-methylbut-2-enoxy)benzoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+4-(3-methylbut-2-enoxy)benzoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-(3-methylbut-2-enoxy)benzoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-(3-methylbut-2-enoxy)benzoic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H14O3/c1-9(2)7-8-15-11-5-3-10(4-6-11)12(13)14/h3-7H,8H2,1-2H3,(H,13,14)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KLZJDQVTNOMAKU-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+3.5
+
+> <PUBCHEM_EXACT_MASS>
+206.094294304
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H14O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+206.24
+
+> <PUBCHEM_SMILES>
+CC(=CCOC1=CC=C(C=C1)C(=O)O)C
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(=CCOC1=CC=C(C=C1)C(=O)O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+46.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+206.094294304
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+10  12  8
+5  8  8
+5  9  8
+8  11  8
+9  12  8
+
+$$$$

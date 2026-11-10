@@ -1,0 +1,4 @@
+anti_target,n_close,n_nearest_ge_5,n_any_neighbor_ge_5,n_flips_to_potent
+hERG,137,51,51,0
+CYP,45,16,19,3
+PXR,69,11,11,0

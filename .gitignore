@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.docx
+final_paper/
+archive_superseded/
+Supplimentary_Information/
+herg_cliffs/paper_plan.txt

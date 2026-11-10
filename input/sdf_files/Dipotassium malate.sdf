@@ -1,0 +1,135 @@
+164689
+  -OEChem-09172606422D
+
+ 15 12  0     1  0  0  0  0  0999 V2000
+    8.0622    0.4050    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.0950    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.0950    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.4050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.4050    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.0950    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981    0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966    0.8799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996    0.8799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9272   -1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  8  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  CHG  4   1   1   2   1   4  -1   6  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+164689
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+118
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBgOAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAACBSggAIACAAAAgAIAACQCAIAAAAAAAAAAAFAAAABEBQAAAAAQAAFIAABAABDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dipotassium;2-hydroxybutanedioate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dipotassium;2-hydroxybutanedioate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+dipotassium;2-hydroxybutanedioate
+
+> <PUBCHEM_IUPAC_NAME>
+dipotassium;2-hydroxybutanedioate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+dipotassium;2-oxidanylbutanedioate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+dipotassium;2-hydroxysuccinate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H6O5.2K/c5-2(4(8)9)1-3(6)7;;/h2,5H,1H2,(H,6,7)(H,8,9);;/q;2*+1/p-2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+SVICABYXKQIXBM-UHFFFAOYSA-L
+
+> <PUBCHEM_EXACT_MASS>
+209.93328619
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H4K2O5
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+210.27
+
+> <PUBCHEM_SMILES>
+C(C(C(=O)[O-])O)C(=O)[O-].[K+].[K+]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C(C(C(=O)[O-])O)C(=O)[O-].[K+].[K+]
+
+> <PUBCHEM_CACTVS_TPSA>
+100
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+209.93328619
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+3
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+8  3  3
+
+$$$$

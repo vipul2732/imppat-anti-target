@@ -1,0 +1,136 @@
+5316227
+  -OEChem-09172610542D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    2.5369    0.8100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.3100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8015    1.7850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0044    1.7850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4810   -0.7726    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8796   -0.0823    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  8  3  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5316227
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+125
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBiMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAACAAADAChgAIAAAAAAgCQBiBCAAAgAAAAAAAACAAAAAAAFAAAAQAAUAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-hydroxy-3-(hydroxymethyl)but-2-enenitrile
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-hydroxy-3-(hydroxymethyl)-2-butenenitrile
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-hydroxy-3-(hydroxymethyl)but-2-enenitrile
+
+> <PUBCHEM_IUPAC_NAME>
+4-hydroxy-3-(hydroxymethyl)but-2-enenitrile
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-(hydroxymethyl)-4-oxidanyl-but-2-enenitrile
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-hydroxy-3-methylol-but-2-enenitrile
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H7NO2/c6-2-1-5(3-7)4-8/h1,7-8H,3-4H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DIBCQZAAUOUKOX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-1.1
+
+> <PUBCHEM_EXACT_MASS>
+113.047678466
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H7NO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+113.11
+
+> <PUBCHEM_SMILES>
+C(C(=CC#N)CO)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C(C(=CC#N)CO)O
+
+> <PUBCHEM_CACTVS_TPSA>
+64.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+113.047678466
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

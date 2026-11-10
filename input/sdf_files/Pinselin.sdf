@@ -1,0 +1,195 @@
+5377796
+  -OEChem-09172610572D
+
+ 34 36  0     0  0  0  0  0  0999 V2000
+    5.5301   -2.2549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301    0.7451    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7817    0.7797    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0603   -0.2308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1387    1.2897    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4068    1.2696    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3962   -0.7549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -0.7549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -1.7549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3962   -1.7549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301   -0.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2901   -0.2203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702   -0.2203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702   -2.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -1.7757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2901   -2.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -0.7341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1962   -0.7341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1962   -1.7757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.2791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2785    0.7797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1272    2.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7773   -2.9095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2829   -2.9095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3284   -0.4220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7319   -2.0878    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6879   -1.7433    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -2.5911    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3121   -2.8148    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2484    1.0959    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5984   -0.5387    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7471    2.2968    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1200    2.9095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5072    2.2824    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 13  1  0  0  0  0
+  3 30  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 31  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 21  2  0  0  0  0
+  7 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 27  1  0  0  0  0
+ 20 28  1  0  0  0  0
+ 20 29  1  0  0  0  0
+ 22 32  1  0  0  0  0
+ 22 33  1  0  0  0  0
+ 22 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5377796
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+464
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4OAAAAAAAAAAAAAAAAAAAAAAAAAA0YIAAAAAAAACRQAAAGgAACAAADASAmAIyDoAABgCIAqDSCAACCAAkIAAIiAEGCMgMJzaGNRqCeWCl4BUIuQfL6PyOwQABCAAYAACCAAIQADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl 2,8-dihydroxy-6-methyl-9-oxo-xanthene-1-carboxylate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,8-dihydroxy-6-methyl-9-oxo-1-xanthenecarboxylic acid methyl ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl 2,8-dihydroxy-6-methyl-9-oxoxanthene-1-carboxylate
+
+> <PUBCHEM_IUPAC_NAME>
+methyl 2,8-dihydroxy-6-methyl-9-oxoxanthene-1-carboxylate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl 6-methyl-2,8-bis(oxidanyl)-9-oxidanylidene-xanthene-1-carboxylate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,8-dihydroxy-9-keto-6-methyl-xanthene-1-carboxylic acid methyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H12O6/c1-7-5-9(18)12-11(6-7)22-10-4-3-8(17)13(16(20)21-2)14(10)15(12)19/h3-6,17-18H,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+TWQNCGDOHUNFFU-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.6
+
+> <PUBCHEM_EXACT_MASS>
+300.06338810
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H12O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+300.26
+
+> <PUBCHEM_SMILES>
+CC1=CC(=C2C(=C1)OC3=C(C2=O)C(=C(C=C3)O)C(=O)OC)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1=CC(=C2C(=C1)OC3=C(C2=O)C(=C(C=C3)O)C(=O)OC)O
+
+> <PUBCHEM_CACTVS_TPSA>
+93.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+300.06338810
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  8
+1  9  8
+10  16  8
+12  18  8
+13  17  8
+14  15  8
+15  17  8
+16  19  8
+18  19  8
+7  10  8
+7  11  8
+7  12  8
+8  11  8
+8  13  8
+8  9  8
+9  14  8
+
+$$$$
